@@ -3734,6 +3734,10 @@ dividen
  
 \end_layout
 
+\begin_layout Subsection
+Saham Perusahaan-Perusahaan yang Tercatat di Bursa Saham
+\end_layout
+
 \begin_layout Standard
 Mungkin banyak sebagian dari Anda yang mengatakan belum kenal pasar modal
  apalagi saham.
@@ -3756,83 +3760,263 @@ flashback
  
 \end_layout
 
+\begin_layout Subsection
+Definisi Obligasi dan Jenisnya
+\end_layout
+
 \begin_layout Standard
-Setelah mempelajari tentang saham, sekarang kita akan membahas tentang obligasi.
- Apa sih obligasi itu? Obligasi itu sebenarnya seperti surat utang.
- Jadi mereka yang mengeluarkan obligasi tersebut baik itu perusahaan ataupun
- negara bahkan, berjanji memberikan penghasilkan kepada mereka yang membeli
- produk obligasi selama jangka waktu tertentu dan besaran dan tetap.
+Setelah mempelajari tentang saham, sekarang kita akan membahas tentang 
+\series bold
+obligasi
+\series default
+.
+ Apa obligasi itu? Obligasi itu sebenarnya seperti 
+\series bold
+surat utang
+\series default
+.
+ Jadi mereka yang mengeluarkan obligasi tersebut, baik itu perusahaan ataupun
+ bahkan negara berjanji untuk memberikan penghasilkan kepada mereka yang
+ membeli produk obligasi selama jangka waktu tertentu dan besaran yang tetap.
  Karena bersifat utang maka di akhir periode, pokok yang Anda investasikan
  akan kembali seperti nilai semula.
+ Dari sudut yang mengeluarkan obligasi, ada dua jenis obligasi, yakni 
+\series bold
+obligasi korporasi
+\series default
+ dan 
+\series bold
+obligasi negara
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Obligasi korporasi
+\series default
+ dikeluarkan oleh perusahaan-perusahaan dengan 
+\emph on
+rating
+\emph default
+ tertentu yang bisa dijual kepada masyarakat ataupun pihak-pihak pengelola
+ dana dari masyarakat.
+ 
+\end_layout
+
+\begin_layout Enumerate-Resume
+
+\series bold
+Obligasi negara
+\series default
+ banyak macamnya seperti yang kita kenal misalnya ORI (seperti obligasi
+ tapi ritel) yang bisa dimiliki oleh seluruh masyarakat Indonesia, dan sebagainy
+a.
  
 \end_layout
 
 \begin_layout Standard
-Dari sudut yang mengeluarkan obligasi, ada dua jenis obligasi.
- Yang pertama adalah obligasi korporasi, dan yang kedua adalah obligasi
- negara.
- Obligasi korporasi misalnya dikeluarkan oleh perusahaan-perusahaan dengan
- rating tertentu yang bisa dijual kepada masyarakat ataupun pihak-pihak
- pengelola dana dari masyarakat.
+Apakah 
+\series bold
+kekurangan dari obligasi atau risikonya
+\series default
+? Misalnya disebut 
+\emph on
+default risk,
+\emph default
+ yaitu 
+\series bold
+ketika si pihak yang mengeluarkan obligasi
+\series default
+ misalnya korporasi
+\series bold
+ mengalami masalah dalam perusahaannya sehingga ia tidak bisa membayarkan
+ imbal hasil atau 
+\emph on
+yield
+\series default
+\emph default
+ tersebut dan bahkan bisa jadi 
+\series bold
+pokok dari obligasi tersebut juga tidak bisa dikembalikan oleh perusahaan
+\series default
+.
  
 \end_layout
 
-\begin_layout Standard
-Obligasi negara banyak macamnya seperti yang kita kenal misalnya ORI, seperti
- obligasi tapi ritel yang bisa dimiliki oleh seluruh masyarakat Indonesia,
- dan sebagainya.
- Kekurangannya apa? Atau risikonya? Misalnya disebut default risk yaitu
- ketika si pihak yang mengeluarkan obligasi misalnya korporasi mengalami
- masalah dalam perusahaannya sehingga ia tidak bisa membayarkan imbal hasil
- atau yield tersebut dan bahkan bisa jadi pokok dari obligasi tersebut juga
- tidak bisa dikembalikan oleh perusahaan.
- 
+\begin_layout Subsection
+Reksadana
 \end_layout
 
 \begin_layout Standard
-Produk berikutnya yang akan kita bahas adalah reksadana.
+Produk berikutnya yang akan kita bahas adalah 
+\series bold
+reksadana
+\series default
+.
  Anda tentu sering mendengar tentang istilah reksadana.
- Tapi sebenarnya apa sih reksadana? Reksadana adalah wadah yang digunakan
- untuk menghimpun dana dari masyarakat pemodal atau investor untuk selanjutnya
- diinvestasikan dalam portofolio efek oleh manajer investasi.
- Tentu dalam hal ini manajer investasinya sudah memperoleh ijin dari regulator
- yaitu Otoritas Jasa Keuangan.
- Bedanya dengan investasi di saham tadi dengan reksadana adalah, kalau investasi
- di saham berarti investorlah sendiri yang akan menentukan saham apa yang
- akan dibeli saham apa yang akan dipilih, saham apa yang akan dijual, dan
- sebagainya.
+ Tapi sebenarnya apa reksadana itu? 
+\series bold
+Reksadana adalah wadah yang digunakan untuk menghimpun dana dari masyarakat
+ pemodal atau investor untuk selanjutnya diinvestasikan dalam portofolio
+ efek oleh manajer investasi
+\series default
+.
+ Tentu dalam hal ini manajer investasinya sudah 
+\series bold
+memperoleh ijin dari regulator yaitu Otoritas Jasa Keuangan
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Subsection
+Perbedaan Reksadana dengan Saham
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Perbedaan
+\series default
+ antara investasi saham dengan reksadana adalah 
+\series bold
+pada
+\series default
+ 
+\series bold
+investasi di saham
+\series default
+, 
+\series bold
+investorlah sendiri yang akan menentukan saham apa yang akan dibeli saham
+ apa yang akan dipilih, saham apa yang akan dijual, dan sebagainya
+\series default
+.
  Jadi investor dipandang harus memiliki informasi maupun kemampuan untuk
  mengeksekusi pilihan investasinya sendiri.
- Sedangkan dalam reksadana, tidak seperti itu.
+ 
+\series bold
+Reksadana tidak seperti itu
+\series default
+.
  Reksadana sebetulnya sangat cocok untuk mereka yang baru masuk ke dunia
- investasi.
- Karena apa? Karena dalam reksadana yang mengelola adalah manajer investasi
- yang sudah harus punya lisensi dalam mengelola dana sudah ada sertifikasinya,
- jadi dikelola oleh orang-orang yang profesional di bidangnya.
- Karena itu, ini merupakan salah satu pilihan yang cocok untuk mereka-mereka
- yang baru terjun ke dunia investasi.
- Jadi di sini yang melakukan pemilihan atas efek apa, misalnya saham apa,
- obligasi apa, dan sebagainya, dilakukan oleh para manajer investasi.
- Karena dikelola oleh pihak lain, tentu pertanyaan Anda akan menjadi, kalau
- gitu manajer investasi seperti apa yang harus kita pilih? Atau reksadana
- seperti apa yang harus kita pilih? Tentu pertama Anda harus melihat track
- record-nya.
- Kemudian past performance-nya seperti apa.
+ investasi, karena 
+\series bold
+yang mengelola reksadana adalah manajer investasi yang sudah harus punya
+ lisensi dalam mengelola dana sudah ada sertifikasinya, jadi dikelola oleh
+ orang-orang yang profesional di bidangnya
+\series default
+.
+ Karena itu, ini merupakan salah satu 
+\series bold
+pilihan yang cocok untuk mereka-mereka yang baru terjun ke dunia investasi
+\series default
+.
+ Jadi di sini 
+\series bold
+yang melakukan pemilihan
+\series default
+ efek atau jenis saham, jenis obligasi dan sebagainya, 
+\series bold
+dilakukan oleh para manajer investasi
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Karena dikelola oleh pihak lain, tentu pertanyaan Anda akan menjadi manajer
+ investasi seperti apa yang harus kita pilih atau reksadana seperti apa
+ yang harus kita pilih? Tentu pertama Anda harus melihat 
+\series bold
+\emph on
+track record
+\series default
+\emph default
+-nya.
+ Kemudian 
+\series bold
+\emph on
+past performance
+\series default
+\emph default
+-nya seperti apa.
  Walaupun kinerja di masa lalu tidak akan selalu menjamin kinerja di masa
- mendatang, paling tidak Anda mempunyai benchmark terhadap kinerja reksadana
- tersebut di masa lalu.
- Banyak jenis-jenis reksadana yang bisa dipilih oleh investor berdasarkan
- dari profil risiko dari investor itu sendiri.
- Yang pertama adalah reksadana pendapatan tetap yang mayoritas dananya diinvesta
-sikan pada produk-produk yang memiliki pendapatan tetap.
- Yang kedua adalah reksadana saham.
+ mendatang, paling tidak Anda mempunyai tolok ukur (
+\emph on
+benchmark
+\emph default
+) terhadap kinerja reksadana tersebut di masa lalu.
+ 
+\end_layout
+
+\begin_layout Subsection
+Jenis Reksadana
+\end_layout
+
+\begin_layout Standard
+Banyak jenis-jenis reksadana yang bisa dipilih oleh investor berdasarkan
+ dari profil risiko dari investor itu sendiri, antara lain:
+\end_layout
+
+\begin_layout Enumerate
+Yang pertama adalah 
+\series bold
+reksadana pendapatan tetap
+\series default
+ yang mayoritas dananya diinvestasikan pada produk-produk yang memiliki
+ pendapatan tetap.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Yang kedua adalah 
+\series bold
+reksadana saham
+\series default
+.
  Seperti namanya, maka produk ini mayoritas dananya diinvestasikan pada
  saham.
- Kemudian yang berikutnya adalah reksadana pasar uang dimana mayoritas dananya
- diinvestasikan pada produk-produk yang maturity-nya di bawah satu tahun.
- Yang terakhir adalah reksadana campuran yaitu reksadana yang menginvestasikan
- dananya pada berbagai macam produk seperti saham, obligasi, dan sebagainya.
- Produk berikutnya adalah exchange traded fund atau ETF.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Kemudian yang berikutnya adalah 
+\series bold
+reksadana pasar uang
+\series default
+ dimana mayoritas dananya diinvestasikan pada produk-produk yang maturity-nya
+ di bawah satu tahun.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Yang terakhir adalah 
+\series bold
+reksadana campuran
+\series default
+ yaitu reksadana yang menginvestasikan dananya pada berbagai macam produk
+ seperti saham, obligasi, dan sebagainya.
+ 
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Exchange Traded Fund
+\emph default
+ (ETF)
+\end_layout
+
+\begin_layout Standard
+Produk berikutnya adalah 
+\emph on
+exchange traded fund
+\emph default
+ atau ETF.
  Sepertinya sesuatu yang sulit tetapi sebetulnya ETF ini seperti reksadana
  namun dicatatkan di bursa.
  Jadi investor bisa melihat harga dari ETF tersebut detik per detik sama
