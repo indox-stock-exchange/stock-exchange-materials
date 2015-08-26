@@ -1,0 +1,3537 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+% hack better font 
+\usepackage[bitstream-charter]{mathdesign}
+\usepackage[T1]{fontenc}
+
+% hack bold in caption
+\usepackage[labelfont=bf]{caption} 
+
+% hack change caption ":" into " ."
+% bisa juga "space", "colon", "semicolon" etc
+\captionsetup{labelsep=period}
+\end_preamble
+\use_default_options true
+\begin_modules
+enumitem
+\end_modules
+\maintain_unincluded_children false
+\language bahasa
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "citecolor=blue"
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\boxbgcolor #0000ff
+\index Index
+\shortcut idx
+\color #718c00
+\end_index
+\leftmargin 2.5cm
+\topmargin 2.5cm
+\rightmargin 2.5cm
+\bottommargin 2.5cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Materi IndonesiaX: 
+\emph on
+Introduction to Stock Exchange
+\emph default
+ 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Diringkas terakhir kali pada 20 Agustus 2015 oleh jibi
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Materi Minggu Pertama
+\end_layout
+
+\begin_layout Section
+Definisi dan Fungsi Pasar Modal
+\end_layout
+
+\begin_layout Standard
+Siswa IndonesiaX, industri keuangan sangat penting bagi perekonomian Indonesia.
+ Apabila kita ibaratkan perekonomian Indonesia sebagai tubuh kita, industri
+ keuangan adalah sistem kardiovaskuler yang menyuplai darah yang membawa
+ oksigen ke seluruh tubuh kita.
+ Di dalam industri keuangan atau di dalam perekonomian Indonesia, uang diperluka
+n untuk memutar ekonomi kita supaya ekonomi kita terus tumbuh.
+ Uang itulah yang dikatakan dipasarkan, di mana asalnya diperoleh dari dua
+ sumber yaitu pasar keuangan dan pasar modal.
+ Pasar secara harafiah adalah tempat bertemunya para penjual dan pembeli,
+ tetapi di dalam konteks modern saat ini sebetulnya pasar adalah mekanisme
+ transaksi.
+ Mekanisme transaksi atau tempat terjadinya transaksi di mana saat ini tempat
+ tadi menjadi cair sifatnya, dalam artian bisa terjadi di manapun.
+ 
+\end_layout
+
+\begin_layout Subsection
+Jenis Pasar dalam Industri Keuangan
+\end_layout
+
+\begin_layout Standard
+Industri keuangan pada dasarnya memiliki dua pasar, yang pertama adalah
+ pasar keuangan dan yang kedua pasar modal (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Jenis-pasar-dalam"
+
+\end_inset
+
+).
+ 
+\series bold
+Pasar Keuangan
+\series default
+ biasanya diasosiasikan dengan pasar yang menyediakan produk-produk pendanaan
+ jangka pendek, sedangkan pasar modal diasosiasikan sebagai pasar yang menyediak
+an produk-produk pendanaan jangka panjang.
+ Pasar keuangan biasanya meliputi produk-produk perbankan dan orang-orang
+ atau individu atau pihak-pihak yang memiliki kelebihan akan menyimpan uangnya
+ di bank dan bank harus menyalurkannya dalam berbagai bentuk produk.
+ Produk bisa dalam bentuk produk pinjaman untuk konsumsi maupun pinjaman
+ untuk modal kerja, selain tentunya pinjaman untuk investasi.
+ Di lain pihak, 
+\series bold
+Pasar Modal
+\series default
+ adalah tempat bertemunya investor yang ingin menanamkan dananya dalam produk-pr
+oduk keuangan atau produk-produk pasar modal yang sifatnya berjangka panjang
+ misalnya 
+\series bold
+saham, obligasi, reksadana, derivatif efek
+\series default
+ dan
+\series bold
+ sukuk
+\series default
+ (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Produk-produk-pasar-modal"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-19_23h28_41.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Jenis-pasar-dalam"
+
+\end_inset
+
+Jenis pasar dalam industri keuangan.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-19_23h30_08.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Produk-produk-pasar-modal"
+
+\end_inset
+
+Produk-produk pasar modal yang sifatnya berjangka panjang.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Jenis pasar dalam industri keuangan dan produk pasar modal yang sifatnya
+ berjangka panjang.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Kategori Pasar Modal
+\end_layout
+
+\begin_layout Standard
+Di dalam pasar modal itu sendiri sebetulnya biasanya dibagi menjadi dua
+ kategori pasar.
+ Yang satu adalah 
+\series bold
+Pasar Perdana
+\series default
+, yang lainnya adalah 
+\series bold
+Pasar Sekunder.
+
+\series default
+ 
+\series bold
+Pasar Perdana
+\series default
+ adalah pasar yang terjadi pada saat suatu perusahaan pertama kali menawarkan
+ produk pasar modalnya, apakah itu saham ataupun obligasi.
+ Di dalam proses penawaran ini, investor biasanya langsung melakukan pembelian
+ kepada perusahaan tersebut.
+ Di lain pihak, di 
+\series bold
+Pasar Sekunder
+\series default
+, yang bertemu adalah antara pihak investor yang satu dengan investor yang
+ lain.
+ Artinya, investor yang sudah memperoleh atau sudah memiliki produk-produk
+ pasar modal (apakah itu saham atau obligasi atau yang lainnya) namun membutuhka
+n uang, maka dia ingin menjual produk untuk memperoleh uang.
+ Kedua belah pihak ini dipertemukan di pasar modal yang dalam hal ini biasanya
+ adalah bursa efek.
+ 
+\end_layout
+
+\begin_layout Subsection
+Fungsi Pasar Modal
+\end_layout
+
+\begin_layout Standard
+Pasar modal sendiri memiliki dua fungsi yaitu 
+\series bold
+Fungsi Ekonomi
+\series default
+ dan 
+\series bold
+Fungsi Keuangan
+\series default
+ (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Pasar-modal-sendiri"
+
+\end_inset
+
+).
+ Secara 
+\series bold
+Fungsi Ekonomi
+\series default
+, pasar modal menyediakan pendanaan dari investor yang memiliki kelebihan
+ dana kepada perusahaaan-perusahaan yang menginginkan dana itu untuk digunakan
+ dalam pengembangan perusahaannya, baik itu untuk ekspansi pabrik, untuk
+ mengakuisisi perusahaan lain, untuk memperbesar usahanya ataupun untuk
+ investasi lainnya.
+ Hal yang harus diingat, pada dasarnya investor yang memiliki kelebihan
+ dana menyerahkan dananya itu kepada perusahaan, dan sebagai gantinya perusahaan
+ menyediakan produk pasar modal, baik itu saham ataupun surat utang.
+ Sebagai fungsi kedua yakni 
+\series bold
+Fungsi Keuangan
+\series default
+, pasar modal memberikan imbal hasil bagi para investornya.
+ Tentunya imbal hasil ini tergantung dari produk pasar modal yang dimiliki
+ (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Pasar-modal-memberikan"
+
+\end_inset
+
+).
+ Apabila itu 
+\series bold
+saham
+\series default
+, maka imbal hasilnya berupa 
+\series bold
+dividen
+\series default
+ atau berupa 
+\series bold
+\emph on
+capital gain
+\series default
+\emph default
+, sedangkan kalau itu adalah berupa 
+\series bold
+obligasi
+\series default
+, maka imbal hasilnya berupa 
+\series bold
+bunga obligasi
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-19_23h34_35.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Pasar-modal-sendiri"
+
+\end_inset
+
+Dua fungsi pasar modal.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-19_23h35_51.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Pasar-modal-memberikan"
+
+\end_inset
+
+Pasar modal memberikan imbal hasil tergantung dari produk pasar modal yang
+ dimiliki.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Fungsi pasar modal dan jenis imbal hasil bagi para investor pasar modal.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Manfaat Pasar Modal
+\end_layout
+
+\begin_layout Standard
+Pasar modal juga memiliki manfaat lain yaitu 
+\series bold
+penyebaran kepemilikan perusahaan
+\series default
+.
+ Dalam konteks ini, perusahaan bisa menawarkan saham-sahamnya kepada masyarakat
+ luas sehingga seluruh masyarakat baik orang Indonesia maupun orang asing
+ dapat menjadi bagian dari perusahaan yaitu sebagai pemilik.
+ Manfaat yang lainnya adalah dalam 
+\series bold
+mendorong profesionalisme dan keterbukaan
+\series default
+.
+ Karena penawaran umum saham ataupun obligasi itu diatur oleh 
+\series bold
+Otoritas Jasa Keuangan
+\series default
+, maka perusahaan harus mengedepankan keterbukaan.
+ Tentunya perusahaan yang menawarkan produk pasar modal kepada masyarakat
+ juga harus mengelola perusahaannya secara profesional, dengan menerapkan
+ prinsip-prinsip 
+\series bold
+\emph on
+good corporate governance
+\series default
+\emph default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Pasar modal juga menciptakan lapangan kerja.
+ Di pasar modal ini banyak sekali bidang-bidang pekerjaan yang terbuka bagi
+ masyarakat.
+ Yang terutama terkenal adalah sebagai broker atau pialang, tapi bisa juga
+ sebagai analis saham atau bisa menjadi pengamat pasar modal dan sebagainya.
+ Itu adalah manfaat pasar modal bagi masyarakat.
+\end_layout
+
+\begin_layout Section
+Sejarah Pasar Modal Indonesia
+\end_layout
+
+\begin_layout Subsection
+Pasar Modal Indonesia Pra-Kemerdekaan
+\end_layout
+
+\begin_layout Standard
+Secara historis, pasar modal telah hadir di negeri kita sejak sebelum Indonesia
+ merdeka.
+ Pada tahun 
+\series bold
+1912
+\series default
+, pemerintah Belanda yang saat itu menguasai Indonesia, mendirikan cabang
+ 
+\series bold
+Bursa Efek Amsterdam
+\series default
+ 
+\series bold
+di Jakarta
+\series default
+ (yang saat itu masih disebut sebagai kota Batavia).
+ Pemerintah Hindia Belanda pada dasarnya ingin agar pasar modal juga tumbuh
+ di tanah jajahannya.
+ Pada saat itu saham-saham yang diperdagangkan kebanyakan adalah saham-saham
+ perusahaan Belanda yang memiliki investasi di Indonesia, misalnya perkebunan-pe
+rkebunan Belanda yang memiliki areal perkebunan di Jawa, Sumatera maupun
+ bagian Indonesia yang lainnya.
+ 
+\end_layout
+
+\begin_layout Subsection
+Pasar Modal Indonesia Paska Kemerdekaan
+\end_layout
+
+\begin_layout Standard
+Perkembangan pasar modal di Indonesia dari waktu ke waktu tidak berjalan
+ mulus karena Indonesia pada saat itu juga terkena dampak Perang Dunia Pertama
+ (I) dan Perang Dunia Kedua (II).
+ Pada tahun 1950-an, pemerintah Republik Indonesia mencoba untuk menghidupkan
+ pasar modal kembali, namun dengan berjalannya nasionalisasi perusahaan-perusaha
+an Belanda di Indonesia (sekitar tahun 
+\series bold
+1958
+\series default
+), pasar modal Indonesia kembali 
+\series bold
+mati suri
+\series default
+ karena saham-saham yang diperdagangkan yaitu saham-saham dari perusahaan-perusa
+haan Belanda itu dinasionalisasi atau disita oleh pemerintah Republik Indonesia.
+ Pemerintah Orde Baru kembali menghidupkan pasar modal pada tahun 
+\series bold
+1977
+\series default
+ dengan mendirikan 
+\series bold
+Badan Pelaksana Pasar Modal
+\series default
+.
+ Badan Pelaksana Pasar Modal mendirikan Bursa Efek dan saham pertama yang
+ dicatatkan pada tahun 1982 adalah saham PT Semen Cibinong.
+ Selanjutnya, saham-saham perusahaan - perusahaan lain juga mulai dicatatkan
+ di Bursa Efek Jakarta, yang saat itu masih menjadi bagian dari Badan Pelaksana
+ Pasar Modal.
+ Pada akhir tahun 1980-an pemerintah mengubah Badan Pelaksana Pasar Modal
+ menjadi Badan Pengawas dan Pelaksana Pasar Modal, karena pada saat itu
+ Bapepam yang dalam hal ini adalah Badan Pengawas masih melakukan operasionalisa
+si Bursa Efek Jakarta, sekaligus juga menjadi pelaksana pasar modal.
+ 
+\end_layout
+
+\begin_layout Subsection
+Pendirian Bursa Swasta di Indonesia
+\end_layout
+
+\begin_layout Standard
+Pada tahun 
+\series bold
+1989
+\series default
+ tepatnya pada tanggal 6 Juni 1989, 
+\series bold
+bursa swasta pertama
+\series default
+ didirikan di Indonesia yaitu PT Bursa Efek Surabaya.
+ PT Bursa Efek Surabaya ini tentunya diawasi oleh Badan Pengawas dan Pelaksana
+ Pasar Modal.
+ Bursa Efek Indonesia baru didirikan pada bulan Juli 1992 atau tepatnya
+ pada 13 Juli 1992, yaitu merupakan swastanisasi dari Bursa Efek Jakarta
+ yang sebelumnya masih merupakan bagian dari Badan Pengawas dan Pelaksana
+ Pasar Modal.
+ Badan Pengawas dan Pelaksana Pasar Modal sendiri kemudian hanya dijadikan
+ sebagai badan pengawas pasar modal yaitu badan pengawas independen yang
+ mengawasi pasar modal Indonesia dan mengawasi dua bursa efek yang ada di
+ Indonesia saat itu yaitu PT Bursa Efek Surabaya dan PT Bursa Efek Jakarta.
+ Selain itu, pada saat itu juga ada Bursa Paralel, namun Bursa Paralel ini
+ kemudian digabung dengan PT Bursa Efek Surabaya.
+ 
+\end_layout
+
+\begin_layout Subsection
+Penerbitan Undang-Undang Pasar Modal dan Otomasi Operasional Bursa Efek
+\end_layout
+
+\begin_layout Standard
+Tahun 
+\series bold
+1995
+\series default
+ adalah tonggak sejarah baru dalam sejarah pasar modal di Indonesia dengan
+ diterbitkannya 
+\series bold
+Undang-undang Pasar Modal
+\series default
+ yaitu Undang-undang Nomor 8 Tahun 1995.
+ Seiring dengan berkembangnya peraturan pasar modal yang sebelumnya hanya
+ bersifat tingkat menteri menjadi tingkat Undang-undang.
+ Bursa Efek Jakarta juga berkembang dengan mengotomasi operasional perdaganganny
+a yaitu dengan membangun 
+\series bold
+\emph on
+Jakarta Automated Trading System
+\series default
+\emph default
+ generasi yang pertama.
+ Sebelumnya perdagangan di Bursa Efek Jakarta dilakukan secara manual.
+ Mulai tahun 1995 itulah mulai dikenal perdagangan elektronik di Bursa Efek
+ Jakarta.
+ 
+\end_layout
+
+\begin_layout Section
+Bursa Efek Indonesia (BEI)
+\end_layout
+
+\begin_layout Subsection
+Kedudukan BEI
+\end_layout
+
+\begin_layout Standard
+Siswa IndonesiaX, berdasarkan 
+\series bold
+Undang-undang Nomor 8 Tahun 1995 tentang Pasar Modal
+\series default
+, Bursa Efek Indonesia (BEI) adalah pihak yang ditetapkan oleh pemerintah
+ untuk menyelenggarakan dan menyediakan sistem atau sarana untuk mempertemukan
+ penawaran jual dan penawaran beli atas efek-efek pihak lain, dengan tujuan
+ memperdagangkan efek di antara mereka.
+ BEI merupakan satu-satunya penyelenggara perdagangan efek di Indonesia
+ dan didirikan dengan tujuan untuk menyelenggarakan perdagangan efek secara
+ teratur, wajar dan efisien.
+ Bersama 
+\series bold
+Kliring Penjaminan Efek Indonesia (KPEI)
+\series default
+ dan 
+\series bold
+Kustodian Sentral Efek Indonesia (KSEI)
+\series default
+, 
+\series bold
+BEI
+\series default
+ adalah 
+\series bold
+\emph on
+Self Regulatory Organization
+\series default
+\emph default
+ yang memiliki tanggung jawab dalam sistem perdagangan efek BEI dalam pelaksanaa
+nnya melakukan 
+\series bold
+operasional
+\series default
+ terhadap 
+\series bold
+\emph on
+Jakarta Automated Trading System Next-G
+\series default
+\emph default
+ yaitu generasi baru dari 
+\emph on
+Jakarta Automated Trading System
+\emph default
+ yang dulu pertama kali dibangun pada tahun 1995 (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Self-Regulatory-Organization"
+
+\end_inset
+
+).
+ Sistem ini merupakan sistem elektronik.
+ Semua perdagangan di dalam sistem itu dilakukan secara elektronik.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_00h08_09.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Self-Regulatory-Organization"
+
+\end_inset
+
+
+\series default
+\emph on
+Self Regulatory Organization
+\emph default
+ memiliki tanggung jawab dalam kegiatan operasional terhadap 
+\emph on
+Jakarta Automated Trading System Next-G
+\emph default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Pemegang Saham BEI dan Kewajiban BEI
+\end_layout
+
+\begin_layout Standard
+Para pemegang saham BEI adalah perusahaan-perusahaan efek yang telah memperoleh
+ ijin usaha sebagai perantara perdagangan efek dan juga memiliki ijin sebagai
+ Anggota Bursa.
+ BEI sendiri memiliki kewajiban untuk menetapkan peraturan mengenai keanggotaan,
+ pencatatan efek dan perdagangan efek yaitu fungsi-fungsi 
+\emph on
+Self Regulatory Organization
+\emph default
+ yang mewajibkan BEI untuk memiliki 
+\series bold
+Satuan Pemeriksa
+\series default
+.
+ Satuan pemeriksa ini memiliki kewajiban untuk memeriksa para Anggota Bursa.
+ Selain itu BEI juga memiliki satuan pemeriksa yang memeriksa kegiatan bursa
+ efek sendiri atau biasa disebut 
+\series bold
+Satuan Pengendalian Intern
+\series default
+.
+ Karena bertugas untuk mengelola perdagangan secara teratur wajar, dan efisien
+ maka semua karyawan BEI tidak diperkenankan untuk memiliki rekening efek
+ karena hal ini untuk mencegah terjadinya 
+\emph on
+insider trading
+\emph default
+.
+ Selain itu karyawan BEI juga memiliki informasi-informasi yang tidak dimiliki
+ oleh para investor publik.
+ 
+\end_layout
+
+\begin_layout Subsection
+Anak-Anak Perusahaan BEI dan Pengembangan Pasar Modal Indonesia
+\end_layout
+
+\begin_layout Standard
+BEI bersama KPEI dan KSEI memiliki beberapa anak perusahaan yang cukup strategis
+ untuk mendukung pengembangan pasar modal Indonesia Salah satu anak perusahaan
+ BEI adalah 
+\series bold
+\emph on
+Indonesia Bond Pricing Agency
+\emph default
+ (PT Penilai Harga Efek Indonesia)
+\series default
+.
+ 
+\emph on
+Indonesia Bond Pricing Agency
+\emph default
+ ini melakukan penilaian atas obligasi, baik obligasi pemerintah maupun
+ obligasi korporasi yang tercatat di Bursa Efek Indonesia.
+ Pada saat ini obligasi diperdagangkan secara 
+\emph on
+over the counter
+\emph default
+ artinya tidak diperdagangkan di Bursa Efek Indonesia tetapi diperdagangkan
+ di luar bursa, sehingga untuk memperoleh penilaian yang wajar atas obligasi
+ pemerintah maupun obligasi korporasi tersebut, PT Penilai Harga Efek Indonesia
+ menggunakan metodologi tersendiri.
+ BEI juga memiliki 
+\series bold
+\emph on
+Indonesia Capital Market Electronic Library
+\series default
+\emph default
+ yaitu perpustakaan elektronik yang dikelola oleh PT iCamel dan berfungsi
+ untuk memberi pelayanan kepada seluruh masyarakat Indonesia dalam menyediakan
+ informasi-informasi terkait pasar modal yang dibutuhkan baik oleh investor
+ publik maupun masyarakat akademisi.
+ BEI juga memiliki 
+\series bold
+\emph on
+Indonesia Securities Protection Fund
+\emph default
+ (Perusahaan Pengelola Dana Perlindungan Investor)
+\series default
+.
+ Perusahaan ini fungsinya mengelola dana yang digunakan untuk melindungi
+ kepentingan para investor dari kemungkinan bahwa saham atau dananya digunakan
+ secara tidak sah oleh para pialang saham.
+ Tentunya dengan adanya dana perlindungan investor atau
+\emph on
+ Indonesia Securities Protection Fund
+\emph default
+ ini maka keamanan investasi para investor baik itu efeknya maupun dananya
+ lebih dapat dijamin.
+\end_layout
+
+\begin_layout Section
+Struktur Pasar Modal Indonesia
+\end_layout
+
+\begin_layout Subsection
+Tugas dan Tujuan Otoritas Jasa Keuangan (OJK)
+\end_layout
+
+\begin_layout Standard
+Siswa IndonesiaX, Bursa Efek Indonesia bersama dengan Kliring Penjaminan
+ Efek Indonesia (KPEI) dan Kustodian Sentral Efek Indonesia (KSEI) merupakan
+ 
+\series bold
+\emph on
+Self Regulatory Organizations
+\series default
+\emph default
+ pasar modal Indonesia.
+ BEI, KPEI, dan KSEI diawasi oleh Otoritas Jasa Keuangan atau yang populer
+ disingkat sebagai OJK (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Struktur-pasar-modal"
+
+\end_inset
+
+).
+ Tugas OJK sendiri adalah melakukan pengaturan dan pengawasan terhadap kegiatan
+ jasa keuangan, baik di sektor perbankan, sektor pasar modal maupun sektor
+ industri keuangan non-bank.
+ Tujuan pendirian OJK adalah agar keseluruhan kegiatan dalam sektor jasa
+ keuangan di Indonesia terselenggara secara teratur, wajar, transparan,
+ dan akuntabel sehingga mampu mewujudkan sistem keuangan yang tumbuh secara
+ berkelanjutan dan stabil dan mampu melindungi kepentingan konsumen dan
+ masyarakat.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_00h25_49.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Struktur-pasar-modal"
+
+\end_inset
+
+Struktur pasar modal Indonesia, di mana BEI, KPEI, dan KSEI diawasi oleh
+ Otoritas Jasa Keuangan (OJK).
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Tugas dan Tujuan Kliring Penjaminan Efek Indonesia (KPEI)
+\end_layout
+
+\begin_layout Standard
+Kliring Penjaminan Efek Indonesia (KPEI) sendiri didirikan pada tanggal
+ 5 Agustus 1996.
+ Tujuan pendirian KPEI adalah untuk menyediakan lembaga kliring dan penjaminan
+ yang menyediakan jasa kliring dan penjaminan penyelesaian transaksi bursa
+ efek agar transaksi di Bursa Efek Indonesia berjalan secara teratur, wajar,
+ dan efisien.
+ Seluruh transaksi yang dilaksanakan di Bursa Efek Indonesia wajib dikliring
+ di KPEI dan juga akan dijamin oleh KPEI dalam penyelesaiannya.
+ Hal ini berarti bahwa tidak akan ada potensi gagal serah atau gagal bayar
+ untuk transaksi saham yang dijamin oleh KPEI.
+ Pada saat ini seluruh saham KPEI dimiliki oleh Bursa Efek Indonesia.
+ 
+\end_layout
+
+\begin_layout Subsection
+Tugas dan Tujuan Kustodian Sentral Efek Indonesia (KSEI)
+\end_layout
+
+\begin_layout Standard
+Kustodian Sentral Efek Indonesia (KSEI) didirikan pada tanggal 9 Januari
+ 1998.
+ Tujuannya adalah untuk menyediakan jasa kustodian dan penyelesaian atau
+ 
+\emph on
+settlement
+\emph default
+ transaksi di Bursa Efek Indonesia sehingga transaksi yang terjadi di Bursa
+ Efek Indonesia dilakukan secara teratur, wajar dan efisien.
+ KSEI sendiri sebagai kustodian sentral menyimpan seluruh saham-saham yang
+ dicatatkan di Bursa Efek Indonesia dan juga saham-saham yang telah diubah
+ menjadi bentuk elektronik (saham 
+\emph on
+scriptless
+\emph default
+).
+ KSEI saat ini dimiliki oleh Bursa Efek Indonesia, KPEI, Bank Kustodian,
+ Anggota Bursa dan Biro Administrasi Efek.
+ Sesungguhnya, KSEI juga dapat dimiliki oleh pihak lain sepanjang memperoleh
+ persetujuan dari Otoritas Jasa Keuangan.
+\end_layout
+
+\begin_layout Section
+Pelaku Pasar Modal
+\end_layout
+
+\begin_layout Subsection
+Anggota Bursa Efek Indonesia (BEI)
+\end_layout
+
+\begin_layout Standard
+Siswa IndonesiaX, di antara para pelaku pasar modal, salah satunya adalah
+ Anggota Bursa Efek Indonesia.
+ Mereka adalah perantara perdagangan efek yang telah memperoleh ijin usaha
+ dari OJK dan juga memiliki ijin dari Bursa Efek Indonesia, sehingga memiliki
+ hak untuk mempergunakan sistem dan atau sarana Bursa Efek Indonesia sesuai
+ dengan peraturan BEI guna melaksanakan transaksi bursa.
+ 
+\end_layout
+
+\begin_layout Subsection
+Penjamin Emisi Efek
+\end_layout
+
+\begin_layout Standard
+Di pihak lain, ada penjamin emisi efek yaitu perusahaan efek yang mendapatkan
+ ijin di bidang penjaminan emisi atau di bidang penjaminan penerbitan dan
+ atau penjualan efek.
+ Orang-orang yang terlibat dalam kegiatan penjaminan emisi efek harus memiliki
+ surat ijin profesi sebagai wakil penjamin emisi efek.
+ 
+\end_layout
+
+\begin_layout Subsection
+Perusahaan Manajemen Aset (
+\emph on
+Assets
+\emph default
+ 
+\emph on
+Management
+\emph default
+)
+\end_layout
+
+\begin_layout Standard
+Perusahaan lain yang juga merupakan pelaku pasar modal adalah perusahaan
+ manajemen investasi atau juga biasa disebut perusahaan 
+\emph on
+asset management
+\emph default
+, yaitu perusahaan yang merupakan pengelola dana profesional yang fungsinya
+ adalah mengelola dana masyarakat untuk diinvestasikan dalam beragam efek
+ atau sekuritas atau surat berharga baik itu saham, obligasi, maupun aset
+ lainnya seperti kategori efek beragun aset.
+ Tujuan pengelolaan dana ini adalah mencapai target investasi yang tentunya
+ menguntungkan bagi para investornya.
+ Sarana yang digunakan untuk mengumpulkan dana-dana yang dikelola ini adalah
+ kontrak investasi kolektif atau yang biasa disebut KIK dan bentuknya yang
+ populer adalah reksa dana.
+ 
+\end_layout
+
+\begin_layout Subsection
+Investor
+\end_layout
+
+\begin_layout Standard
+Pelaku pasar modal lainnya adalah para investor sendiri, yang merupakan
+ pihak-pihak yang memiliki modal.
+ Pada dasarnya investor ini memiliki dana yang ditanamkan dalam bentuk-bentuk
+ produk pasar modal baik itu saham, obligasi, maupun produk pasar modal
+ lainnya.
+ Investor dapat berupa investor perorangan ataupun investor institusi (perusahaa
+n-perusahaan asuransi, perusahaan manajemen investasi dan pihak-pihak lain
+ atau institusi-institusi lain yang menanamkan modalnya di pasar modal Indonesia
+).
+ 
+\end_layout
+
+\begin_layout Subsection
+Profesi lainnya
+\end_layout
+
+\begin_layout Standard
+Pasar modal Indonesia juga didukung oleh berbagai pelaku lain yaitu para
+ profesional seperti akuntan, notaris, konsultan hukum dan bahkan para penilai
+ yang bergabung dalam perusahaan jasa penilai.
+ 
+\end_layout
+
+\begin_layout Section
+Produk Pasar Modal Indonesia
+\end_layout
+
+\begin_layout Subsection
+Saham
+\end_layout
+
+\begin_layout Standard
+Siswa IndonesiaX, setelah kita mengetahui tentang pasar modal, saatnya kita
+ belajar mengenai produk-produk pasar modal yang ada di Bursa Efek Indonesia.
+ Produk-produk ini biasa disebut sebagai efek dan sifatnya adalah jangka
+ panjang.
+ Berdasarkan Undang-undang Nomor 8 Tahun 1995 tentang Pasar Modal, efek
+ di antaranya adalah efek bersifat ekuitas atau terkenal dengan istilah
+ 
+\series bold
+saham
+\series default
+.
+ Saham ini merupakan bukti penyertaan atau kepemilikan seseorang atau suatu
+ pihak dalam suatu perusahaan.
+ Saham memberikan hasil investasi bervariasi, tergantung dari kinerja perusahaan
+ maupun tergantung dari bagaimana investor mengelola portofolio sahamnya
+ (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Saham."
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Subsection
+Obligasi 
+\series bold
+(efek bersifat utang atau efek pendapatan tetap)
+\end_layout
+
+\begin_layout Standard
+Efek lain adalah 
+\series bold
+efek bersifat utang atau efek pendapatan tetap
+\series default
+.
+ Efek ini yang paling dikenal adalah obligasi.
+ Obligasi merupakan efek yang memberikan imbal hasil berupa bunga dan memiliki
+ masa jatuh tempo.
+ Pada saat jatuh tempo, investor akan memperoleh kembali modal yang ditanamkan
+ dalam obligasi tersebut (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Obligasi."
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Subsection
+Sukuk 
+\series bold
+(efek pendapatan
+\series default
+ 
+\series bold
+yang berlandaskan prinsip syariah)
+\end_layout
+
+\begin_layout Standard
+Efek lain adalah 
+\series bold
+efek pendapatan
+\series default
+ tetap 
+\series bold
+berlandaskan prinsip syariah
+\series default
+ atau terkenal dengan sebutan sukuk.
+ Sukuk merupakan efek berbasis penyertaan dalam pengelolaan aset yang memberikan
+ hasil investasi tergantung dari jenis akadnya dan periodenya (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Sukuk."
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Subsection
+Efek Turunan / Derivatif
+\end_layout
+
+\begin_layout Standard
+Efek lain adalah 
+\series bold
+Efek Derivatif
+\series default
+.
+ Efek Derivatif merupakan efek yang menggunakan aset finansial lainnya sebagai
+ 
+\series bold
+\emph on
+underlying assets
+\series default
+\emph default
+.
+ Efek derivatif ini memberikan hasil investasi yang sifatnya bervariasi,
+ tergantung kemampuan para investor dalam mengelola portofolio efek derivatifnya
+ (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Derivatif."
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Subsection
+Reksa Dana
+\end_layout
+
+\begin_layout Standard
+Efek lain adalah 
+\series bold
+reksa dana
+\series default
+.
+ Reksa dana ini adalah kontrak investasi kolektif antara perusahaan pengelola
+ reksa dana dengan para investornya.
+ Reksa dana ini merupakan salah satu investasi yang populer bagi para investor
+ pemula karena para investor pemula membutuhkan keahlian para pengelola
+ investasi yang profesional, yang biasanya berupa perusahaan-perusahaan
+ pengelola investasi yaitu perusahaan-perusahaan reksa dana.
+ Reksa dana adalah wadah yang dipergunakan untuk menghimpun dana dari masyarakat
+ pemodal oleh perusahaan pengelola investasi untuk selanjutnya oleh perusahaan
+ pengelola investasi diinvestasikan ke dalam portofolio efek sebagaimana
+ tujuan investasinya.
+ Ada 
+\series bold
+reksa dana yang bersifat saham
+\series default
+ karena mayoritas 
+\series bold
+portofolionya adalah berupa saham
+\series default
+ dan ada reksa dana yang disebut sebagai 
+\series bold
+reksa dana pendapatan tetap
+\series default
+ yaitu yang mayoritas 
+\series bold
+portofolionya adalah berupa surat utang
+\series default
+.
+ Selain contoh di atas, juga ada 
+\series bold
+reksa dana yang sifatnya efek-efek jangka pendek atau pasar uang
+\series default
+.
+ Salah satu bentuknya adalah reksa dana yang diperdagangkan di Bursa Efek
+ Indonesia atau populer disebut sebagai 
+\series bold
+\emph on
+Exchange Traded Funds
+\series default
+\emph default
+.
+ 
+\emph on
+Exchange Traded Funds
+\emph default
+ ini pada dasarnya adalah reksa dana namun unit penyertaannya diperdagangkan
+ di Bursa Efek Indonesia dan investor dapat membeli dan menjual 
+\emph on
+Exchange Traded Funds
+\emph default
+ tadi kapanpun tentunya selama hari kerja bursa.
+ Keuntungan dari 
+\emph on
+Exchange Traded Funds
+\emph default
+ ini tergantung dari kemampuan investor dalam memutuskan 
+\series bold
+kapan dia harus membeli dan kapan dia harus menjual
+\series default
+ (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Reksa-dana."
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h16_11.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Saham."
+
+\end_inset
+
+Saham.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h17_00.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Obligasi."
+
+\end_inset
+
+Obligasi.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h17_28.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Sukuk."
+
+\end_inset
+
+Sukuk.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h17_54.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Derivatif."
+
+\end_inset
+
+Derivatif.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h18_40.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Reksa-dana."
+
+\end_inset
+
+Reksa dana.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Produk-produk pasar modal yang ada di Bursa Efek Indonesia.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Indeks Saham
+\end_layout
+
+\begin_layout Subsection
+Indeks Saham Non-Sektoral
+\end_layout
+
+\begin_layout Standard
+Siswa IndonesiaX, indeks saham adalah instrumen yang digunakan sebagai indikator
+ dari pergerakan harga dan kinerja saham atau sekumpulan saham.
+ Indeks ini dapat berbentuk indeks saham individu maupun indeks saham sekumpulan
+, baik itu sektoral maupun non-sektoral.
+ Indeks saham yang sifatnya non-sektoral di Bursa Efek Indonesia berjumlah
+ 15 (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Indeks-saham-non-sektoral"
+
+\end_inset
+
+).
+ Keseluruhan indeks tersebut merupakan indeks non-sektoral.
+ Artinya indeks-indeks tersebut mengumpulkan berbagai saham sesuai dengan
+ temanya ke dalam suatu indeks.
+ Misalnya index SM Infra18 adalah sekumpulan 18 saham di sektor-sektor infrastru
+ktur di Bursa Efek Indonesia.
+ Contoh lainnya adalah Indeks Saham Syariah Indonesia mencakup seluruh saham
+ yang masuk dalam Daftar Saham Syariah Indonesia yang diterbitkan oleh OJK
+ dan Dewan Syariah Nasional.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "65col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h22_49.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Indeks-saham-non-sektoral"
+
+\end_inset
+
+Indeks saham non-sektoral di Bursa Efek Indonesia.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Indeks Saham Sektoral
+\end_layout
+
+\begin_layout Standard
+Bursa Efek Indonesia memiliki 10 indeks sektoral (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Indeks-saham-sektoral"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "65col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h24_08.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Indeks-saham-sektoral"
+
+\end_inset
+
+Indeks saham sektoral di Bursa Efek Indonesia.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Metode Penghitungan Indeks Saham
+\end_layout
+
+\begin_layout Standard
+Secara umum, metodologi perhitungan indeks adalah sebagai berikut: Index
+ sama dengan nilai pasar saham dibagi dengan nilai dasar saham dikalikan
+ 100.
+ Nilai pasar adalah kumulatif dari perkalian harga saham dengan jumlah harga
+ saham yang tercatat, sedangkan nilai dasar adalah kumulatif dari perkalian
+ harga saham dengan jumlah saham tercatat pada hari dasar (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Metodologi-perhitungan-indeks"
+
+\end_inset
+
+).
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h24_29.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Metodologi-perhitungan-indeks"
+
+\end_inset
+
+Metodologi perhitungan indeks saham.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Gambaran Umum dan Alur Perdagangan di BEI
+\end_layout
+
+\begin_layout Subsection
+Keamanan Transaksi di BEI
+\end_layout
+
+\begin_layout Standard
+Siswa IndonesiaX, investor tidak perlu khawatir dalam bertransaksi saham
+ di Bursa Efek Indonesia, karena walaupun dilakukan secara 
+\emph on
+online
+\emph default
+, transaksi saham di Bursa Efek Indonesia memiliki tingkat keamanan transaksi
+ yang terjamin.
+ Bursa Efek Indonesia sendiri telah memperoleh sertifikasi ISO 27001 tentang
+ Sistem Manajemen Keamanan Informasi.
+ Transaksi di Bursa Efek Indonesia juga sudah bisa menanggulangi permasalahan
+ yang terkait dengan gagal bayar maupun gagal serah, karena risiko ini sudah
+ diserap oleh KPEI sebagai lembaga kliring dan penjaminan.
+ Apabila ada investor yang tidak mampu membayar transaksi pembelian sahamnya,
+ si penjual saham akan tetap memperoleh uangnya dari KPEI.
+ Sebaliknya, investor juga tidak perlu khawatir jika tidak memperoleh saham
+ yang dibelinya (misalnya penjualnya tidak mampu memberikan saham yang dijualnya
+) karena KPEI akan menalangi saham tersebut (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Mekanisme-perdagangan-saham"
+
+\end_inset
+
+).
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h25_55.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Mekanisme-perdagangan-saham"
+
+\end_inset
+
+Mekanisme perdagangan saham di Pasar Sekunder.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Sistem Lelang Berkelanjutan
+\end_layout
+
+\begin_layout Standard
+Transaksi saham di Bursa Efek Indonesia menggunakan sistem 
+\emph on
+continous
+\emph default
+ 
+\emph on
+auction
+\emph default
+ atau sistem lelang berkelanjutan yang didasarkan pada 
+\emph on
+order driven market
+\emph default
+.
+ Hal ini berarti bahwa para investor semua memasukkan order belinya maupun
+ order jualnya sesuai dengan waktu dan saham serta pada tingkat harga tertentu.
+ Sistem perdagangan di Bursa Efek Indonesia akan mengatur bahwa investor
+ yang melakukan order terlebih dahululah yang akan dilayani terlebih dahulu.
+ 
+\end_layout
+
+\begin_layout Subsection
+Anggota Bursa
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Pihak-pihak yang boleh bertransaksi di Bursa Efek Indonesia hanyalah Anggota
+ Bursa
+\series default
+, artinya investor yang ingin menjual atau membeli saham harus menggunakan
+ jasa Anggota Bursa untuk berdagang di Bursa Efek Indonesia.
+ Transaksi dilakukan secara otomatis secara elektronik oleh investor maupun
+ oleh Anggota Bursa.
+ Anggota Bursa sekarang dapat melakukan transaksi langsung dari kantor-kantor
+ mereka, sementara investor dapat bertransaksi baik melalui Anggota Bursa
+ atau melalui transaksi 
+\emph on
+online
+\emph default
+ yang akan disambungkan dengan sistem Anggota Bursa ke sistem perdagangan
+ di Bursa Efek Indonesia yaitu di 
+\emph on
+Jakarta Automated Trading System Next Generation
+\emph default
+ yang ada sekarang.
+ Investor melakukan transaksi saham melalui Anggota Bursa yang telah memiliki
+ ijin sebagai perantara perdagangan efek dan Anggota Bursa akan mengenakan
+ biaya transaksi untuk setiap transaksi yang dilakukan oleh investor.
+ 
+\end_layout
+
+\begin_layout Subsection
+Transaksi 
+\emph on
+Scriptless
+\end_layout
+
+\begin_layout Standard
+Transaksi saham sendiri sekarang sudah diselesaikan secara 
+\series bold
+\emph on
+scriptless
+\series default
+\emph default
+ 
+\series bold
+artinya tidak ada lagi sertifikat saham yang berpindah tangan
+\series default
+.
+ Semua saham disimpan di Kustodian Sentral Efek Indonesia sehingga investor
+ hanya akan memperoleh bukti beli atau bukti jual saham.
+ Penyelesaian di Kustodian Sentral Efek Indonesia sendiri untuk penyelesaian
+ transaksi bursa saat ini adalah 
+\series bold
+T+3
+\series default
+ artinya investor baru akan memperoleh saham yang dibelinya (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Investor-memperoleh-saham"
+
+\end_inset
+
+) atau 
+\series bold
+memperoleh uang dari hasil penjualan sahamnya 
+\series default
+(gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Investor-memperoleh-uang"
+
+\end_inset
+
+)
+\series bold
+ pada hari ketiga setelah tanggal transaksi
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h29_43.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Investor-memperoleh-saham"
+
+\end_inset
+
+Investor memperoleh saham yang dibelinya pada hari ketiga setelah tanggal
+ transaksi.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h30_00.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Investor-memperoleh-uang"
+
+\end_inset
+
+Investor memperoleh uang dari hasil penjualan sahamnya pada hari ketiga
+ setelah tanggal transaksi.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Penyelesaian transaksi bursa yang sifatnya T+3.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Remote Trading (
+\emph on
+Online
+\emph default
+)
+\end_layout
+
+\begin_layout Standard
+Transaksi saham di Bursa Efek Indonesia dilakukan dengan cara 
+\emph on
+remote
+\emph default
+ 
+\emph on
+trading
+\emph default
+.
+ Investor sendiri dapat 
+\series bold
+bertransaksi di manapun dan kapan pun asalkan terhubung dengan internet
+ dan terhubung dengan sistem penyedia jasa transaksi 
+\emph on
+online
+\emph default
+ yang diberikan oleh Anggota-anggota Bursa
+\series default
+ di mana para investor menjadi nasabahnya.
+ Saham yang dimiliki oleh investor juga aman karena disimpan di Kustodian
+ Sentral Efek Indonesia, dan uang hasil penjualan saham itupun disimpan
+ di rekening dana investor atau rekening dana nasabah Anggota Bursa atas
+ nama investor tersebut.
+ Investor hanya dapat bertransaksi saham pada hari Senin sampai dengan Jumat
+ mulai dari jam 08.45 sampai dengan jam 04.15 (sore), seperti yang ditunjukan
+ pada gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Jadwal-transaksi-perdagangan"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-20_17h31_53.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Jadwal-transaksi-perdagangan"
+
+\end_inset
+
+Jadwal transaksi perdagangan yang meliputi 
+\emph on
+pre-opening
+\emph default
+, transaksi, 
+\emph on
+pre-closing
+\emph default
+ dan 
+\emph on
+post-trading
+\emph default
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Biaya Transaksi di Pasar Sekunder, Fraksi Harga Saham dan 
+\emph on
+Auto Rejection System
+\end_layout
+
+\begin_layout Subsection
+Perantara Perdagangan Efek, Komisi dan Pajak Pertambahan Nilai
+\end_layout
+
+\begin_layout Standard
+Siswa IndonesiaX, transaksi perdagangan saham dilakukan oleh para investor
+ melalui perantara perdagangan efek atau yang disebut sebagai 
+\series bold
+pialang
+\series default
+ atau lebih populer disebut sebagai 
+\series bold
+\emph on
+broker
+\series default
+\emph default
+.
+ Ini adalah perusahaan efek yang sudah memiliki ijin dari OJK dan juga menjadi
+ Anggota Bursa di Bursa Efek Indonesia.
+ Para pialang ini akan mengenakan komisi yang harus dibayarkan oleh para
+ investor yang bertransaksi.
+ 
+\series bold
+Komisi 
+\emph on
+broker
+\emph default
+ ini secara peraturan bernilai maksimum 1% dari nilai transaksi
+\series default
+.
+ Selain komisi ini, para 
+\emph on
+broker
+\emph default
+ juga akan mengenakan 
+\series bold
+Pajak Pertambahan Nilai sebesar 10% dari komisi tersebut
+\series default
+ kepada para investor, namun tentunya uang ini akan disetor ke kas negara
+ sebagai penerimaan Direktorat Jenderal Pajak.
+ Selain itu, 
+\series bold
+khusus untuk transaksi penjualan saham juga akan dikenakan pajak transaksi
+ sebesar 0,1% dari nilai transaksi.
+
+\series default
+ Pajak ini juga akan langsung dibayarkan ke kas negara sebagai penerimaan
+ Direktorat Jenderal Pajak dari transaksi penjualan saham.
+ Dalam melakukan transaksi saham, jumlah kelipatan penawaran dan maksimal
+ penawaran serta permintaan diatur oleh Bursa Efek Indonesia, di mana ada
+ prosedur yang mengaturnya sehingga memiliki keseragaman.
+ Ini adalah untuk menjamin bahwa transaksi di Bursa Efek Indonesia berlangsung
+ secara teratur, wajar, dan efisien.
+ 
+\series bold
+Pengaturan jumlah kelipatan permintaan dan penawaran ini disebut sebagai
+ pengaturan fraksi harga saham
+\series default
+.
+ Besar kecilnya fraksi harga saham tergantung dari harga saham yang diperdagangk
+an Semakin tinggi harga suatu saham, maka akan semakin besar pula fraksi
+ harga saham yang digunakan.
+ Pihak yang menentukan besar-kecilnya fraksi harga saham ini adalah Bursa
+ Efek Indonesia sendiri dan diatur dalam Peraturan Bursa Efek Indonesia.
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Auto Rejection System
+\end_layout
+
+\begin_layout Standard
+Dalam perdagangan saham juga diatur batas tertinggi dan batas terendah untuk
+ satu hari perdagangan suatu saham.
+ Aturan ini dikenal dengan istilah 
+\series bold
+\emph on
+Auto Rejection System
+\series default
+\emph default
+.
+ Kebijakan 
+\emph on
+Auto Rejection System
+\emph default
+ ini adalah kebijakan untuk mengontrol perdagangan saham yang ada di bursa,
+ tujuannya agar Bursa Efek Indonesia menyelenggarakan perdagangan saham
+ secara teratur, wajar, dan efisien.
+ Bursa Efek Indonesia dan Otoritas Jasa Keuangan sepakat untuk memberlakukan
+ 
+\emph on
+Auto Rejection System
+\emph default
+ untuk mencegah fluktuasi harga saham yang terlalu tinggi.
+ Dengan kata lain, dengan adanya 
+\emph on
+Auto Rejection System
+\emph default
+ ini maka 
+\series bold
+harga-harga saham akan berfluktuasi secara terkendali
+\series default
+, artinya tidak akan ada kenaikan atau penurunan yang terjadi secara sangat
+ tajam.
+ 
+\emph on
+Auto Rejection System
+\emph default
+ adalah sistem penolakan secara otomatis oleh 
+\emph on
+Jakarta Automated Trading System
+\emph default
+ terhadap penawaran jual dan atau penawaran beli efek bersifat ekuitas (efek
+ saham) yang melampaui batasan harga atau jumlah efek bersifat ekuitas yang
+ ditetapkan oleh bursa.
+ 
+\emph on
+Auto Rejection System
+\emph default
+ ini merupakan mekanisme perdagangan saham di BEI dimana 
+\series bold
+batas atas dan batas bawah diberlakukan untuk mencegah fluktuasi pergerakan
+ harga saham yang di luar normal
+\series default
+.
+ Ini berarti harga saham tidak bisa naik atau tidak bisa turun melebihi
+ batas yang telah ditentukan dengan mekanisme ini.
+ 
+\emph on
+Auto Rejection System
+\emph default
+ terbukti sangat berguna.
+ 
+\series bold
+Bursa Efek New York
+\series default
+ yang pada saat itu belum menerapkan 
+\emph on
+Auto Rejection System
+\emph default
+ pernah mengalami 
+\emph on
+crash
+\emph default
+ sehingga dalam beberapa detik, 
+\series bold
+indeks harga saham Dow Jones turun lebih dari 5%
+\series default
+.
+ Kemungkinan terjadinya hal ini di Bursa Efek Indonesia sangat minimum karena
+ pemberlakuan 
+\emph on
+Auto Rejection System
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Part
+Materi Minggu Kedua
+\end_layout
+
+\begin_layout Section
+Investasi dan Mengapa Perlu Berinvestasi
+\end_layout
+
+\begin_layout Standard
+Hai IndonesiaXers, apa kabar? Minggu lalu, kalian telah belajar tentang
+ pasar modal dan Bursa Efek Indonesia.
+ Minggu ini kita akan lebih detail belajar tentang investasi.
+ Di berbagai buku teks kita dapat menemukan banyak sekali pandangan para
+ ahli mengenai apa itu investasi.
+ Namun pada dasarnya sangat sederhana.
+ 
+\series bold
+Investasi itu merupakan aktivitas pengelolaan suatu aset yang dapat memberikan
+ hasil atau keuntungan di kemudian hari
+\series default
+.
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Investasi itu dibagi dua
+\series default
+, yang pertama investasi di 
+\series bold
+sektor riil
+\series default
+ dan yang kedua adalah investasi di 
+\series bold
+sektor keuangan
+\series default
+.
+ Di sektor 
+\series bold
+riil
+\series default
+ misalnya 
+\series bold
+penanaman modal secara langsung, membuat pabrik-pabrik dan sebagainya
+\series default
+, dan di sektor 
+\series bold
+keuangan
+\series default
+ adalah seperti 
+\series bold
+jual beli efek atau surat berharga di pasar modal
+\series default
+.
+ Selain itu investasi juga banyak sekali macamnya, seperti berinvestasi
+ di 
+\series bold
+properti
+\series default
+ misalnya atau berinvestasi di 
+\series bold
+emas
+\series default
+ dan sebagainya.
+ Nah yang kita akan bahas pada kesempatan kali ini adalah investasi di sektor
+ keuangan yaitu di pasar modal.
+ 
+\end_layout
+
+\begin_layout Standard
+Yang menjadi
+\series bold
+ produk-produk di pasar modal banyak sekali
+\series default
+.
+ Yang pertama adalah 
+\series bold
+saham
+\series default
+, yang merupakan kepemilikan seseorang di suatu perusahaan.
+ Kemudian juga 
+\series bold
+obligasi
+\series default
+ atau surat utang yang merupakan surat bukti utang dari perusahaan kepada
+ pemodal.
+ Yang berikutnya banyak lagi misalnya 
+\series bold
+reksadana
+\series default
+, kemudian reksadana yang diperdagangkan di pasar atau 
+\series bold
+\emph on
+exchange traded funds
+\series default
+\emph default
+.
+ Kemudian 
+\series bold
+derivatif
+\series default
+ dan sebagainya.
+ Jadi banyak sekali pilihan-pilihan yang bisa diambil masyarakat ketika
+ mereka ingin berinvestasi di pasar modal.
+\end_layout
+
+\begin_layout Standard
+Nah setelah kita tahu apa itu investasi, pertanyaan mendasar adalah mengapa
+ kita perlu berinvestasi.
+ Banyak sekali alasan yang membuat kita harus berinvestasi.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Alasan pertama adalah 
+\series bold
+mengatasi fenomena inflasi
+\series default
+.
+ Anda tentu sering mendengar kata inflasi di mana-mana.
+ Paling mudahnya adalah beberapa tahun lalu ketika Anda membawa uang Rp
+ 100.000 dan Anda berbelanja di toko swalayan atau toko serba ada, mungkin
+ dengan seratus ribu Anda sudah bisa memperoleh beras, kebutuhan pokok yang
+ lain dan sebagainya secara lengkap.
+ Namun 
+\series bold
+sekarang dengan uang yang sama tentu saja barang yang bisa kita beli jauh
+ lebih sedikit
+\series default
+.
+ Itu namanya 
+\series bold
+inflasi
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Enumerate-Resume
+Alasan kedua adalah 
+\series bold
+meningkatkan nilai kekayaan
+\series default
+.
+ Tentu saja setiap orang ingin situasi keuangannya lebih baik daripada hari
+ kemarin.
+ Ingat kata-kata yang disebutkan oleh Bill Gates yang saya senang dengan
+ kata-kata yang dia ucapkan adalah, “If you born poor, is not your mistake.
+ But if you die poor it’s totally your mistake
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Dikemukakan oleh Bill Gates pada saat
+\end_layout
+
+\end_inset
+
+.” Karena itu 
+\series bold
+kewajiban Anda untuk berinvestasi dan menjadi kaya di kemudian hari
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Enumerate-Resume
+Alasan ketiga adalah 
+\series bold
+menghindari ketidakpastian di masa yang akan datang
+\series default
+.
+ Orang bilang tidak ada yang pasti di dunia ini kecuali ketidakpastian itu
+ sendiri.
+ Hari ini Anda mungkin seorang pekerja ataupun Anda punya bisnis atau apa,
+ Anda tidak akan pernah tahu apa yang akan terjadi besok atau lusa dan sebagainy
+a.
+ Karena itu 
+\series bold
+Anda harus menyiapkan investasi karena 
+\emph on
+income
+\emph default
+ yang Anda peroleh sekarang belum tentu akan Anda miliki di kemudian hari
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Enumerate-Resume
+Alasan keempat kenapa Anda harus berinvestasi adalah untuk 
+\series bold
+memenuhi kebutuhan dan keinginan Anda
+\series default
+.
+ Orang boleh berkeinginan atau bercita-cita membeli mobil impian ataupun
+ pergi berlibur dengan orang-orang yang kita cintai, 
+\series bold
+alangkah baiknya ketika kita memenuhi keinginan kita itu dengan hasil investasi,
+ bukan dari pokok uang yang kita miliki
+\series default
+.
+ 
+\end_layout
+
+\begin_layout Standard
+Nah ketika kita sudah paham tentang investasi, kenapa kita harus investasi,
+ sekarang kembali ke Anda sendiri, apakah Anda akan segera merealisasikan
+ keinginan dan cita-cita Anda melalui investasi atau seperti yang sering
+ kita baca ketika orang-orang yang sukses, 
+\emph on
+public
+\emph default
+ 
+\emph on
+figure
+\emph default
+ misalnya, ketika mereka memperoleh 
+\emph on
+income stream
+\emph default
+ yang luar biasa tapi di hari tuanya, mereka hidup sangat berkekurangan?
+ Kembali ke Anda.
+\end_layout
+
+\begin_layout Section
+Jenis Investasi
+\end_layout
+
+\begin_layout Standard
+Setelah kita mengenal apa itu investasi dan kenapa kita harus berinvestasi
+ sekarang tentu kita ingin tahu apa jenis-jenis investasi.
+ Investasi itu banyak sekali macamnya.
+ Ada investasi di 
+\series bold
+properti
+\series default
+ misalnya, yang tadi sempat saya singgung secara sekilas.
+ Kemudian ada investasi di 
+\series bold
+logam mulia
+\series default
+, seperti emas misalnya, dan investasi 
+\series bold
+produk-produk keuangan di pasar modal
+\series default
+.
+ Semua pasti ada kelebihan dan kekurangannya.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+For example
+\emph default
+ atau contohnya adalah investasi di properti.
+ Kita semua tentu senang untuk mempunyai beberapa rumah ataupun bahkan banyak
+ rumah.
+ Kelebihannya adalah pada umumnya harga properti akan selalu naik.
+ Tetapi kekurangannya adalah investasi di properti tidak likuid.
+ Ketika Anda misalnya membutuhkan uang secara tiba-tiba atau mendadak, agak
+ sulit rasanya untuk menjual properti Anda dalam waktu yang singkat.
+ Selain itu ketika Anda membutuhkan tidak sebanyak nilai rumah, misalnya
+ rumah Anda bernilai lima ratus juta.
+ Tetapi sebetulnya Anda hanya butuh seratus juta.
+ Tentu Anda tidak bisa menjual seperlima dari rumah Anda itu bukan? Seperti
+ itu.
+ 
+\end_layout
+
+\begin_layout Standard
+Kemudian kalau investasi di logam mulia atau emas, apa keuntungannya? Keuntungan
+nya tentu pada umumnya harganya akan beranjak naik.
+ Anda bisa memperoleh capital gain dari selisih ketika Anda menjual dan
+ ketika Anda membeli.
+ Tetapi risikonya tentu ada.
+ Karena untuk menyimpan tentu ada risiko ketika dicuri orang misalnya.
+ Jadi setiap jenis investasi itu pasti ada kelebihan dan ada kekurangannya.
+ 
+\end_layout
+
+\begin_layout Standard
+Nah sekarang kita masuk ke jenis-jenis investasi di pasar modal.
+ Salah satu yang utama adalah saham.
+ Tentu Anda semua sering sekali mendengar kata saham.
+ Apa sih saham itu sebenarnya? Dalam kehidupan kita sehari-hari misalnya
+ ketika teman Anda memulai usaha yang baru entah itu restoran ataupun apapun,
+ dia bisa mengajak Anda untuk ikut memiliki perusahaan itu dengan mempunyai
+ sekian persen saham misalnya.
+ Jadi sebetulnya saham itu merupakan bukti penyertaan atau kepemilikan seorang
+ investor dalam suatu usaha.
+ Tentu saja harapannya dengan kepemilikan itu, seorang investor akan memperoleh
+ keuntungan.
+ 
+\end_layout
+
+\begin_layout Standard
+Ada dua jenis keuntungan yang bisa diperoleh oleh investor ketika dia memilih
+ bentuk investasi berupa saham di satu perusahaan.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Yang pertama tentu adalah capital gain.
+ Capital gain adalah selisih dari harga jual dari harga beli.
+ Yaitu misalnya ketika Anda membeli saham per lembar atau per satuannya
+ adalah Rp 1.000, ketika Anda menjualnya Rp 1.500 artinya Anda memperoleh
+ capital gain seharga, sebesar Rp 500.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Yang berikutnya adalah dividen.
+ Dividen adalah sebagian keuntungan yang dibagikan oleh perusahaan ketika
+ suatu perusahaan itu membukukan keuntungan.
+ Jadi banyak sekali keuntungan yang bisa diperoleh investor ketika dia memilih
+ saham sebagai bentuk investasinya.
+ Risikonya apa? Tentu setiap investasi ada risikonya.
+ Kalau di saham tentu risikonya adalah kehilangan sebagian atau seluruh
+ penyertaan kita dalam suatu perusahaan.
+ 
+\end_layout
+
+\begin_layout Standard
+Mungkin banyak sebagian dari Anda yang mengatakan belum kenal pasar modal
+ apalagi saham.
+ Apa iya seperti itu? Nah, kita flashback aja.
+ Dari pagi tadi ketika kita bangun tidur, apa yang kita lakukan.
+ Misalnya kita pagi-pagi kita ngecek sosial media yang kita miliki, providernya
+ dari apa? Adalah dari perusahaan yang sahamnya tercatat di bursa.
+ Setelah itu mungkin Anda akan mandi, menggunakan produk-produk seperti
+ sabun, pasta gigi, dan sebagainya, itu juga produk-produk yang, dari perusahaan
+ yang sahamnya dicatatkan di bursa.
+ Dan seterusnya mulai dari makanan, kendaraan yang Anda gunakan menuju ke
+ sekolah dan sebagainya.
+ Itu semua adalah produk-produk dari perusahaan yang sahamnya sudah tercatat
+ di bursa yang artinya mereka memperoleh pendanaan dari pasar modal untuk
+ mengembangkan usahanya.
+ Sudah mulai familiar dengan Anda? 
+\end_layout
+
+\begin_layout Standard
+Setelah mempelajari tentang saham, sekarang kita akan membahas tentang obligasi.
+ Apa sih obligasi itu? Obligasi itu sebenarnya seperti surat utang.
+ Jadi mereka yang mengeluarkan obligasi tersebut baik itu perusahaan ataupun
+ negara bahkan, berjanji memberikan penghasilkan kepada mereka yang membeli
+ produk obligasi selama jangka waktu tertentu dan besaran dan tetap.
+ Karena bersifat utang maka di akhir periode, pokok yang Anda investasikan
+ akan kembali seperti nilai semula.
+ 
+\end_layout
+
+\begin_layout Standard
+Dari sudut yang mengeluarkan obligasi, ada dua jenis obligasi.
+ Yang pertama adalah obligasi korporasi, dan yang kedua adalah obligasi
+ negara.
+ Obligasi korporasi misalnya dikeluarkan oleh perusahaan-perusahaan dengan
+ rating tertentu yang bisa dijual kepada masyarakat ataupun pihak-pihak
+ pengelola dana dari masyarakat.
+ 
+\end_layout
+
+\begin_layout Standard
+Obligasi negara banyak macamnya seperti yang kita kenal misalnya ORI, seperti
+ obligasi tapi ritel yang bisa dimiliki oleh seluruh masyarakat Indonesia,
+ dan sebagainya.
+ Kekurangannya apa? Atau risikonya? Misalnya disebut default risk yaitu
+ ketika si pihak yang mengeluarkan obligasi misalnya korporasi mengalami
+ masalah dalam perusahaannya sehingga ia tidak bisa membayarkan imbal hasil
+ atau yield tersebut dan bahkan bisa jadi pokok dari obligasi tersebut juga
+ tidak bisa dikembalikan oleh perusahaan.
+ 
+\end_layout
+
+\begin_layout Standard
+Produk berikutnya yang akan kita bahas adalah reksadana.
+ Anda tentu sering mendengar tentang istilah reksadana.
+ Tapi sebenarnya apa sih reksadana? Reksadana adalah wadah yang digunakan
+ untuk menghimpun dana dari masyarakat pemodal atau investor untuk selanjutnya
+ diinvestasikan dalam portofolio efek oleh manajer investasi.
+ Tentu dalam hal ini manajer investasinya sudah memperoleh ijin dari regulator
+ yaitu Otoritas Jasa Keuangan.
+ Bedanya dengan investasi di saham tadi dengan reksadana adalah, kalau investasi
+ di saham berarti investorlah sendiri yang akan menentukan saham apa yang
+ akan dibeli saham apa yang akan dipilih, saham apa yang akan dijual, dan
+ sebagainya.
+ Jadi investor dipandang harus memiliki informasi maupun kemampuan untuk
+ mengeksekusi pilihan investasinya sendiri.
+ Sedangkan dalam reksadana, tidak seperti itu.
+ Reksadana sebetulnya sangat cocok untuk mereka yang baru masuk ke dunia
+ investasi.
+ Karena apa? Karena dalam reksadana yang mengelola adalah manajer investasi
+ yang sudah harus punya lisensi dalam mengelola dana sudah ada sertifikasinya,
+ jadi dikelola oleh orang-orang yang profesional di bidangnya.
+ Karena itu, ini merupakan salah satu pilihan yang cocok untuk mereka-mereka
+ yang baru terjun ke dunia investasi.
+ Jadi di sini yang melakukan pemilihan atas efek apa, misalnya saham apa,
+ obligasi apa, dan sebagainya, dilakukan oleh para manajer investasi.
+ Karena dikelola oleh pihak lain, tentu pertanyaan Anda akan menjadi, kalau
+ gitu manajer investasi seperti apa yang harus kita pilih? Atau reksadana
+ seperti apa yang harus kita pilih? Tentu pertama Anda harus melihat track
+ record-nya.
+ Kemudian past performance-nya seperti apa.
+ Walaupun kinerja di masa lalu tidak akan selalu menjamin kinerja di masa
+ mendatang, paling tidak Anda mempunyai benchmark terhadap kinerja reksadana
+ tersebut di masa lalu.
+ Banyak jenis-jenis reksadana yang bisa dipilih oleh investor berdasarkan
+ dari profil risiko dari investor itu sendiri.
+ Yang pertama adalah reksadana pendapatan tetap yang mayoritas dananya diinvesta
+sikan pada produk-produk yang memiliki pendapatan tetap.
+ Yang kedua adalah reksadana saham.
+ Seperti namanya, maka produk ini mayoritas dananya diinvestasikan pada
+ saham.
+ Kemudian yang berikutnya adalah reksadana pasar uang dimana mayoritas dananya
+ diinvestasikan pada produk-produk yang maturity-nya di bawah satu tahun.
+ Yang terakhir adalah reksadana campuran yaitu reksadana yang menginvestasikan
+ dananya pada berbagai macam produk seperti saham, obligasi, dan sebagainya.
+ Produk berikutnya adalah exchange traded fund atau ETF.
+ Sepertinya sesuatu yang sulit tetapi sebetulnya ETF ini seperti reksadana
+ namun dicatatkan di bursa.
+ Jadi investor bisa melihat harga dari ETF tersebut detik per detik sama
+ seperti saham.
+ Yang berikutnya adalah efek derivatif.
+ Ini memang sesuatu yang tidak sederhana.
+ Karena sebetulnya derivatif ini merupakan suatu produk turunan dari produk
+ awal yang digunakan sebagai underlying-nya atau dasar dari produk derivatif
+ tersebut.
+ Derivatif itu sebetulnya seperti suatu kontrak antara dua pihak untuk membeli
+ atau menjual suatu aset tertentu di masa yang akan datang dengan harga
+ yang telah disepakati sebelumnya.
+ Derivatif yang dikembangkan di Bursa Efek Indonesia ada dua.
+ Yang pertama adalah Kontrak Opsi Saham atau KOS.
+ Yang kedua adalah Kontrak Berjangka Indeks Efek atau lebih dikenal dengan
+ nama Index Future.
+ Kontrak Opsi Saham atau KOS merupakan hak dan bukan kewajiban, untuk membeli
+ atau menjual suatu produk yang menjadi underlying-nya dengan harga tertentu
+ dan waktu tertentu, yang telah disepakati sebelumnya.
+ Sedangkan Kontrak Berjangka Indeks Efek atau KBIE yang saat ini di Bursa
+ Efek Indonesia memiliki produk LQ45 KBIE adalah suatu kontrak untuk membeli
+ atau menjual yang menjadi underlying-nya dalam hal ini adalah LQ45 di masa
+ yang akan mendatang yang telah disepakati sebelumnya.
+ Orang sering mengatakan bahwa investasi itu penuh risiko.
+ Tetapi sebetulnya menyongsong masa depan Anda tanpa melakukan investasi,
+ itu justru lebih berisiko.
+ Tadi Anda sudah belajar tentang apa itu investasi, kenapa harus berinvestasi,
+ dan kemudian jenis-jenis investasi.
+ Sekarang kembali ke Anda sendiri apakah akan segera mulai berinvestasi
+ dan menyiapkan masa depan Anda sedari sekarang atau terus menundanya yang
+ berarti menyongsong masa depan tanpa melakukan apapun yang justru menurut
+ saya adalah sangat berisiko.
+\end_layout
+
+\begin_layout Section
+Langkah-Langkah Investasi di Pasar Modal
+\end_layout
+
+\begin_layout Standard
+Nah, sudah mulai tertarik untuk berinvestasi? Sebelum Anda mulai, ada beberapa
+ hal yang harus Anda pahami.
+ Yang pertama adalah pahami tujuan dari investasi Anda.
+ Apakah itu untuk biaya anak sekolah, atau untuk menyiapkan masa pensiun?
+ Kenapa hal ini penting? Karena ini akan terkait dengan jangka waktu investasi
+ Anda dan jenis investasi yang paling tepat untuk tujuan Anda.
+ Yang kedua adalah kenali profil risiko Anda.
+ Ada beberapa macam.
+ Yang pertama adalah risk averter atau mereka yang tidak suka risiko.
+ Yang kedua adalah yang tipe moderat atau sedang-sedang saja.
+ Yang berikutnya adalah risk taker atau mereka yang menyukai risiko atau
+ mampu untuk menyerap risiko sampai dengan level tertentu.
+ Ini sangat penting karena ini akan menentukan jenis produk yang akan Anda
+ pilih untuk investasi Anda.
+ Yang ketiga adalah pelajari alternatif investasi.
+ Tadi di awal kita sudah belajar tentang jenis-jenis investasi.
+ Tapi itu baru kulit besarnya saja.
+ Di dalamnya ada banyak sekali pilihan.
+ Misalnya tentang saham.
+ Saham ada berbagai jenis.
+ Ada saham properti, saham consumer goods, saham segala macam ada.
+ Dan kemudian obligasi.
+ Obligasi juga banyak sekali macamnya.
+ Jadi Anda harus benar-benar mempelajari tentang alternatif investasi karena
+ ini akan sangat menentukan return atau imbal hasil yang akan Anda peroleh,
+ berbagai jenis risiko yang Anda mungkin hadapi, dan sebagainya.
+ Yang keempat adalah pahami tingkat risiko produk investasi.
+ Ini menjadi penting karena investasi itu memiliki berbagai macam risiko
+ yang harus kita pahami.
+ Tetapi seperti tadi saya sampaikan bahwa risiko itu akan datang ketika
+ kita tidak memahami apa yang kita lakukan atau apa yang kita investasikan.
+ Jadi semakin kita memahami sesuatu, apa yang kita lakukan, apa yang kita
+ investasikan tentu tidak lagi risiko menjadi momok yang menyebabkan Anda
+ tidak akan pernah memulai investasi.
+ Yang kelima adalah tentukan batas investasi Anda.
+ Sesuaikan dengan kemampuan keuangan dan profil risiko Anda.
+ da loh orang yang ketika baru belajar tentang investasi kemudian menginvetasika
+n semua pendapatannya.
+ Tentu saja ini sebaiknya tidak dilakukan.
+ Karena pasti Anda punya kewajiban-kewajiban lain yang harus diambil dari
+ pendapatan Anda.
+ Kemudian profil risiko.
+ Ini akan menentukan batas investasi apa yang akan sesuai dengan profil
+ risiko Anda.
+ Yang keenam adalah tentukan strategi investasi Anda.
+ Banyak sudut pandang.
+ Misalnya pertanyaannya adalah apakah sebaiknya strateginya adalah melakukan
+ investasi awal di depan dan sekali saja, atau melakukan investasi secara
+ rutin tiap bulan.
+ Kembali ke diri Anda sendiri.
+ Tetapi banyak profesional menyarankan bahwasebaiknya investasi itu dilakukan
+ rutin setiap bulan.
+ Tentu hasilnya akan sangat berbeda.
+ Selain membuat Anda lebih disiplin, juga biasanya akan memberikan imbal
+ hasil yang lebih menjanjikan.
+ Yang terakhir adalah manfaatkan jasa profesional bila perlu.
+ Tapi ini kembali ke diri Anda masing-masing.
+ Jasa profesional hanya sebatas memberikan advis atau nasihat tentang investasi
+ apa yang sesuai dengan Anda.
+ Tetapi Anda harus ingat bahwa keputusan investasi kembali ke diri Anda
+ masing-masing.
+ Jadi mulailah bertanggung jawab terhadap pilihan investasi Anda sendiri.
+ Itu bisa dilakukan dengan rajin belajar tentang investasi dan mau meluangkan
+ waktu Anda untuk mempelajari lebih dalam tentang investasi itu sendiri.
+ Selain itu ada beberapa prinsip yang harus dipegang oleh investor dalam
+ berinvestasi di pasar modal.
+ Yang pertama adalah gunakan dana lebih atau excess fund.
+ Jadi sebaiknya hindari penggunaan dana-dana yang merupakan bagian dari
+ kewajiban Anda misalnya dalam membayar uang sekolah anak, ataupun listrik,
+ dan sebagainya, untuk diinvestasikan.
+ Tapi ada orang yang berpendapat sebaliknya.
+ Karena investasi itu tidak ditentukan oleh seberapa besar penghasilan Anda
+ atau seberapa besar misalnya uang yang Anda miliki.
+ Tetapi seberapa besar Anda bisa sisihkan di awal untuk melakukan investasi.
+ Jadi dalam pandangan ini agak sebaliknya, tetapi kita ambil dua-duanya.
+ Maksudnya adalah seperti ini.
+ Ketika Anda punya penghasilan Anda gunakan untuk membayar tagihan ini,
+ itu, dan sebagainya, atau Anda untuk gunakan untuk belanja pada akhirnya
+ tidak akan ada yang tersisa untuk Anda berinvestasi.
+ Tetapi misalnya Anda disiplin untuk menggunakan pembayaran untuk kewajiban-kewa
+jiban yang Anda miliki selanjutnya Anda harus disiplin untuk menyisihkan
+ sebagian itu untuk melakukan investasi.
+ Karena tidak penting berapa besar penghasilan Anda, tetapi yang terpenting
+ adalah seberapa besar Anda bisa mendisiplinkan diri Anda sendiri untuk
+ menyisihkan uang Anda di awal untuk melakukan investasi.
+ Yang berikutnya adalah dapatkan informasi mengenai produk investasi yang
+ Anda pilih sebanyak mungkin.
+ Karena dalam dunia investasi yang paling berharga adalah informasi itu
+ sendiri.
+ Itu bisa Anda peroleh dengan Anda rajin membaca, rajib mencari tahu tentang
+ produk yang Anda invetasikan, dan sebagainya.
+ Yang berikutnya adalah sangat penting.
+ Ada satu pepatah yang sangat terkenal “Never put your eggs into one basket”.
+ Artinya, jangan pernah menempatkan seluruh dana investasi Anda pada satu
+ jenis instrumen yang sama.
+ Hal ini terkait dengan diversifikasi dari risiko itu sendiri.
+ Jadi ketika Anda melakukan investasi pilih produk-produk investasi yang
+ mungkin berlainan sifatnya.
+ Misalnya produk investasi yang akan sejalan dengan pertumbuhan ekonomi
+ jadikan satu dengan produk investasi yang mungkin ketika ekonomi sedang
+ turun justru dia akan berkinerja yang baik.
+ Yang berikutnya juga cukup penting karena menyangkut prinsip.
+ Kenali perusahaan di mana Anda berinvestasi.
+ Baik itu perusahaan yang sahamnya Anda beli, baik itu perusahaan yang dimana
+ membantu Anda berinvestasi atau disebut broker, atau perusahaan manajer
+ investasi dimana Anda membeli reksadana.
+ Ada pertanyaan menarik yang biasanya muncul ketika saya selesai memberikan
+ penjelasan tentang investasi.
+ Pertanyaannya seperti ini, bagaimana mungkin saya melakukan investasi ketika
+ di akhir bulan gaji saya selalu habis untuk membayar ini dan itu.
+ Apa iya seperti itu? Saya kembalikan ke diri Anda masing-masing.
+ Coba lihat lagi pos-pos pengeluaran Anda apakah betul pengeluaran itu perlu
+ atau harus Anda lakukan.
+ Banyak sekali sebetulnya pengeluaran-pengeluaran yang tidak perlu dilakukan.
+ Yang pada akhirnya membuat Anda belum sampai akhir bulan gaji Anda sudah
+ habis, seperti itu.
+ Kalau kita melihat sekeliling kita, dari pengalaman saya paling tidak,
+ banyak sekali orang-orang yang punya penghasilan besar tetapi di akhir
+ bulan selalu uangnya habis.
+ Ada juga orang yang penghasilannya tidak terlalu besar tetapi justru dia
+ mampu mendisiplinkan dirinya untuk berinvestasi.
+ Jadi sebetulnya investasi itu bukan tergantung dari seberapa besar penghasilan
+ Anda, tetapi seberapa disiplin Anda menyisihkan uang Anda untuk Anda investasik
+an.
+ Bagaimana jika kemudian Anda memutuskan untuk berinvestasi di pasar modal
+ melalui saham.
+ Bagaimana sih langkah-langkah untuk berinvestasi saham? Caranya mudah banget.
+ Yang pertama tentu Anda harus mencari dan kemudian memilih perusahaan sekuritas
+ yang akan membantu Anda melakukan jual-beli saham di pasar modal.
+ Saat ini ada lebih dari 100 perusahaan efek Anggota Bursa yang dapat membantu
+ Anda menjadi investor di pasar modal.
+ Cari Anggota Bursa yang sesuai dengan karakteristik yang Anda miliki.
+ Misalnya Anda modalnya tidak terlalu besar.
+ Cari perusahaan sekuritas yang mau membukakan account dengan modal yang
+ tidak terlalu besar.
+ Saat ini bahkan ada yang sampai dengan Rp 100.000 saja Anda sudah bisa mulai
+ menjadi investor di pasar modal.
+ Selanjutnya mungkin, beberapa perusahaan sekuritas menawarkan servis yang
+ berbeda-beda.
+ Misalnya ada perusahaan sekuritas yang mempunyai data-data riset tentang
+ saham-saham atau perusahaan-perusahaan yang layak untuk Anda koleksi.
+ Seperti itu.
+ Banyak sekali pilihan-pilihan yang bisa Anda lakukan ketika Anda ingin
+ mulai berinvestasi di pasar modal.
+ Setelah menentukan perusahaan sekuritas mana yang akan dipilih, seorang
+ investor harus membuka rekening di perusahaan sekuritas tersebut, dengan
+ mentransfer sejumlah dana yang seperti tadi saya sebutkan, hanya Rp 100.000
+ saja sudah bisa untuk membuka rekening.
+ Saat ini untuk rekening atas nama nasabah dipisahkan dari rekening dana
+ dari perusahaan sekuritas.
+ Hal ini untuk menjaga atau menjamin keamanan dari nasabah itu sendiri.
+ Setelah itu seorang investor atau nasabah akan memperoleh Identitas Tunggal
+ Nasabah.
+ Ada berita bagus.
+ Untuk menjadi investor di pasar modal Indonesia, setiap investor akan memperole
+h yang disebut kartu akses atau acuan kepemilikan sekuritas.
+ Di situ Anda bisa memantau dana dan efek Anda dimana fasilitas ini sebetulnya
+ diadakan untuk membantu Anda menghindarkan dari hal-hal yang tidak diinginkan
+ misalnya penggunaan dana dan efek Anda oleh pihak-pihak lain yang tidak
+ bertanggung jawab.
+ Ada satu pertanyaan penting yang sering muncul.
+ Apakah investasi di pasar modal itu aman dan dijamin.
+ Di pasar modal ada suatu lembaga yang disebut Kliring Penjaminan Efek Indonesia.
+ Di situ dilakukan penjaminan atas transaksi yang dilakukan oleh investor
+ di pasar modal.
+ Seperti apa maksudnya? Maksudnya ialah ketika seseorang menjual sahamnya,
+ dipastikan orang tersebut akan menerima uang dari hasil penjualan sahamnya.
+ Dan ketika seseorang membeli saham, dijamin bahwa orang tersebut akan menerima
+ saham yang dibelinya.
+ Tetapi kalau ditanyakan apakah aman dan dijamin dalam hal naik-turunnya
+ investasi, itu tidak.
+ Karena nature dari investasi itu sendiri pasti ada naik, ada turun, tergantung
+ dari jenis investasi yang Anda pilih kemudian mungkin kondisi makro ekonomi,
+ dan sebagainya.
+ Jadi yang dalam hal itu tidak dijamin.
+ Nah saat ini di pasar modal kita ada juga berita bagus, baru saja diresmikan
+ 2012, yaitu PT Penyelenggara Perlindungan Investor Efek Indonesia.
+ Ini seperti boleh dibilang seperti LPS kalau di perbankan.
+ Dimana investor dijamin sejumlah uang tertentu ketika dana maupun efeknya
+ dipergunakan secara tidak bertanggung jawab oleh pihak-pihak tertentu misalnya
+ oleh pengelola dari perusahaan sekuritas dan sebagainya.
+ Jadi itu berita baiknya, ketika berinvestasi di pasar modal, saat ini sudah
+ ada lembaga yang akan memberikan jaminan sebatas tertentu dari dana dan
+ efek Anda.
+\end_layout
+
+\begin_layout Section
+Awas Penipuan Investasi
+\end_layout
+
+\begin_layout Standard
+Sebelum saya tutup sesi tentang investasi ada satu hal yang sangat penting
+ yang Anda harus pahami yaitu tentang penipuan investasi.
+ Banyak orang berpendapat bahwa tertipu dalam investasi merupakan bagian
+ atau risiko dari suatu investasi, namun sebenarnya itu adalah pendapat
+ yang keliru.
+ Yang disebut dengan risiko dalam investasi itu misalnya ketika nilai dari
+ investasi Anda turun karena misalnya kondisi makro yang tidak menentu dan
+ sebagainya.
+ Penipuan investasi adalah murni bentuk salah satu penipuan yang Anda semua,
+ kita semua, harus waspada.
+ Yang bisa saya sampaikan di sini adalah mereka semua luar biasa usahanya
+ untuk meyakinkan orang lain tentang skema-skema investasi yang ditawarkan.
+ Saya bisa pastikan mereka tidak melakukan investasi tetapi yang banyak
+ adalah melakukan 
+\series bold
+skema ponzi seperti arisan-arisan berantai dan sebagainya
+\series default
+.
+ Orang banyak dijanjikan keuntungan yang sangat tinggi, yang sangat tidak
+ masuk akal, yang sebetulnya diambil dari uang Anda sendiri.
+ 
+\end_layout
+
+\begin_layout Standard
+Saya akan sharing beberapa tips yang akan membantu Anda terhindar dari penipuan
+ investasi.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Yang pertama adalah, Anda harus waspada dengan berbagai penawaran dengan
+ janji-janji yang palsu dan muluk-muluk.
+ Misalnya, janji pasti untung dan dalam jangka pendek.
+ 
+\end_layout
+
+\begin_layout Enumerate-Resume
+Yang kedua adalah, Anda harus waspada terhadap penawaran investasi yang
+ memaksa atau dengan bujuk rayu.
+ Biasanya dengan mengaburkan produk investasi itu sendiri.
+ Bisa jadi Anda ditawarkan dengan produk-produk yang menggiurkan yang berdasarka
+n atas investasi di luar negeri entah di mana.
+ Itu Anda harus waspada.
+ 
+\end_layout
+
+\begin_layout Enumerate-Resume
+Yang ketiga adalah waspada terhadap modus investasi dengan replikasi misalnya
+ dengan investasi berkedok multi level marketing dan penguncian dana dalam
+ periode tertentu.
+ Ciri khas dari penipuan investasi adalah Anda dikatakan tidak boleh mengambil
+ dana investasi Anda dalam kurun waktu tertentu.
+ 
+\end_layout
+
+\begin_layout Enumerate-Resume
+Yang berikutnya adalah waspada terhadap penawaran investasi dari perusahaan
+ yang tidak jelas.
+ Ini adalah yang paling sederhana.
+ Anda secara langsung bisa menanyakan kepada Otoritas Jasa Keuangan atau
+ OJK, ke nomor telepon yang disediakan.
+ Karena hanya OJK yang berhak mengeluarkan ijin perusahaan investasi di
+ Indonesia.
+ 
+\end_layout
+
+\begin_layout Enumerate-Resume
+Satu hal lagi yang harus Anda ingat adalah, ijin mendirikan perusahaan berbeda
+ dengan ijin untuk melakukan penghimpunan dana masyarakat.
+ Jadi banyak penipuan investasi yang mengatakan bahwa mereka sudah mempunyai
+ ijin.
+ Padahal ijin itu adalah ijin untuk mendirikan perusahaan, bukan ijin untuk
+ mengelola dana masyarakat.
+ 
+\end_layout
+
+\begin_layout Standard
+Nah, kita sudah belajar banyak tentang apa itu investasi, kenapa seseorang
+ perlu berinvestasi, langkah-langkah investasi, dan bagaimana menghindarkan
+ diri dari penipuan investasi.
+ Mengapa sih belajar investasi itu sangat penting? Ada banyak alasan.
+ Yang pertama adalah investasi di pasar modal adalah ikut menggerakkan perekonom
+ian nasional.
+ Bagaimana itu bisa dijelaskan? Ketika seorang investor berinvestasi di
+ saham dari perusahaan yang tercatat di Bursa Efek Indonesia artinya investor
+ tersebut ikut berpartisipasi dalam tumbuh kembangnya suatu perusahaan.
+ Sedangkan ketika seseorang membeli saham dari perusahaan yang baru saja
+ mencatatkan sahamnya di Bursa Efek Indonesia uang dari investor tersebut
+ akan digunakan oleh perusahaan untuk semakin mengembangkan usahanya.
+ Apa yang terjadi ketika suatu perusahaan terus maju dan berkembang? Perusahaan
+ tersebut tentu akan membutuhkan lebih banyak tenaga kerja dan ketika kinerja
+ perusahaan tersebut semakin bagus, ia akan bisa membayar lebih banyak pajak
+ kepada negara.
+ Artinya, ketika seseorang berinvestasi melalui saham di pasar modal ia
+ ikut serta dalam pembangunan atau pergerakan ataupun pertumbuhan di negeri
+ ini.
+ Semoga penjelasan tentang investasi bermanfaat untuk Anda semua.
+ Terima kasih.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\end_body
+\end_document
