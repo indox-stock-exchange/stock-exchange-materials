@@ -109,7 +109,7 @@ Introduction to Stock Exchange
 status open
 
 \begin_layout Plain Layout
-Diringkas terakhir kali pada 20 Agustus 2015 oleh jibi
+Diringkas oleh jibi
 \end_layout
 
 \end_inset
@@ -1438,7 +1438,10 @@ reksa dana
  pemula karena para investor pemula membutuhkan keahlian para pengelola
  investasi yang profesional, yang biasanya berupa perusahaan-perusahaan
  pengelola investasi yaitu perusahaan-perusahaan reksa dana.
- Reksa dana adalah wadah yang dipergunakan untuk menghimpun dana dari masyarakat
+\end_layout
+
+\begin_layout Standard
+Reksa dana adalah wadah yang dipergunakan untuk menghimpun dana dari masyarakat
  pemodal oleh perusahaan pengelola investasi untuk selanjutnya oleh perusahaan
  pengelola investasi diinvestasikan ke dalam portofolio efek sebagaimana
  tujuan investasinya.
@@ -2788,13 +2791,17 @@ Materi Minggu Kedua
 Investasi dan Mengapa Perlu Berinvestasi
 \end_layout
 
+\begin_layout Subsection
+Definisi Investasi
+\end_layout
+
 \begin_layout Standard
 Hai IndonesiaXers, apa kabar? Minggu lalu, kalian telah belajar tentang
  pasar modal dan Bursa Efek Indonesia.
  Minggu ini kita akan lebih detail belajar tentang investasi.
  Di berbagai buku teks kita dapat menemukan banyak sekali pandangan para
  ahli mengenai apa itu investasi.
- Namun pada dasarnya sangat sederhana.
+ Namun pada dasarnya, investasi sifatnya sangat sederhana.
  
 \series bold
 Investasi itu merupakan aktivitas pengelolaan suatu aset yang dapat memberikan
@@ -2844,8 +2851,12 @@ properti
 emas
 \series default
  dan sebagainya.
- Nah yang kita akan bahas pada kesempatan kali ini adalah investasi di sektor
- keuangan yaitu di pasar modal.
+ Yang akan kita bahas pada kesempatan kali ini adalah investasi di sektor
+ keuangan yaitu di 
+\series bold
+pasar modal
+\series default
+.
  
 \end_layout
 
@@ -2886,8 +2897,12 @@ derivatif
  mereka ingin berinvestasi di pasar modal.
 \end_layout
 
+\begin_layout Subsection
+Alasan untuk Berinvestasi
+\end_layout
+
 \begin_layout Standard
-Nah setelah kita tahu apa itu investasi, pertanyaan mendasar adalah mengapa
+Setelah kita tahu apa itu investasi, pertanyaan mendasar adalah mengapa
  kita perlu berinvestasi.
  Banyak sekali alasan yang membuat kita harus berinvestasi.
  
@@ -2903,13 +2918,27 @@ mengatasi fenomena inflasi
  Paling mudahnya adalah beberapa tahun lalu ketika Anda membawa uang Rp
  100.000 dan Anda berbelanja di toko swalayan atau toko serba ada, mungkin
  dengan seratus ribu Anda sudah bisa memperoleh beras, kebutuhan pokok yang
- lain dan sebagainya secara lengkap.
- Namun 
+ lain dan sebagainya secara lengkap (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Beberapa-tahun-lalu"
+
+\end_inset
+
+).
+ Namun sekarang
 \series bold
-sekarang dengan uang yang sama tentu saja barang yang bisa kita beli jauh
- lebih sedikit
+, dengan uang yang sama tentu saja barang yang bisa kita beli jauh lebih
+ sedikit
 \series default
-.
+ (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Tahun-tahun-berikutnya-dengan"
+
+\end_inset
+
+).
  Itu namanya 
 \series bold
 inflasi
@@ -2926,8 +2955,12 @@ meningkatkan nilai kekayaan
 .
  Tentu saja setiap orang ingin situasi keuangannya lebih baik daripada hari
  kemarin.
- Ingat kata-kata yang disebutkan oleh Bill Gates yang saya senang dengan
- kata-kata yang dia ucapkan adalah, “If you born poor, is not your mistake.
+ Ingat kata-kata yang disebutkan oleh 
+\series bold
+Bill Gates
+\series default
+ yang saya senang dengan kata-kata yang dia ucapkan adalah, “If you born
+ poor, is not your mistake.
  But if you die poor it’s totally your mistake
 \begin_inset Foot
 status collapsed
@@ -2942,7 +2975,14 @@ Dikemukakan oleh Bill Gates pada saat
 \series bold
 kewajiban Anda untuk berinvestasi dan menjadi kaya di kemudian hari
 \series default
-.
+ (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Meningkatkan-nilai-kekayaan"
+
+\end_inset
+
+).
  
 \end_layout
 
@@ -2981,8 +3021,373 @@ memenuhi kebutuhan dan keinginan Anda
 alangkah baiknya ketika kita memenuhi keinginan kita itu dengan hasil investasi,
  bukan dari pokok uang yang kita miliki
 \series default
-.
+ (gambar 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Membeli-mobil-impian"
+
+\end_inset
+
+ dan 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig:Keinginan-untuk-mendapatkan"
+
+\end_inset
+
+).
  
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement ph
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-26_22h06_24.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Beberapa-tahun-lalu"
+
+\end_inset
+
+Beberapa tahun lalu dengan sejumlah uang, kita sudah bisa membeli kebutuhan-kebu
+tuhan pokok secara lengkap.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-26_22h06_46.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Tahun-tahun-berikutnya-dengan"
+
+\end_inset
+
+Tahun-tahun berikutnya, dengan jumlah uang yang sama, barang yang bisa dibeli
+ lebih sedikit karena adanya inflasi.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-26_22h10_39.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Meningkatkan-nilai-kekayaan"
+
+\end_inset
+
+Meningkatkan nilai kekayaan dan situasi keuangan bisa dicapai lewat investasi.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-26_22h11_55.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Membeli-mobil-impian"
+
+\end_inset
+
+Membeli mobil impian bisa dicapai salah satunya dengan berinvestasi.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \thinspace{}
+\end_inset
+
+
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "49col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename inzet gambar slide/2015-08-26_22h12_14.png
+	lyxscale 20
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+\begin_inset CommandInset label
+LatexCommand label
+name "fig:Keinginan-untuk-mendapatkan"
+
+\end_inset
+
+Keinginan untuk mendapatkan pendidikan yang layak dan menamatkan studi pun
+ bisa dicapai dengan berinvestasi
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Mengatasi fenomena inflasi, meningkatkan nilai kekayaan, menghindari ketidakpast
+ian di masa yang akan datang dan memenuhi kebutuhan merupakan alasan-alasan
+ yang membuat kita harus berinvestasi.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -3010,7 +3415,7 @@ Jenis Investasi
 \end_layout
 
 \begin_layout Standard
-Setelah kita mengenal apa itu investasi dan kenapa kita harus berinvestasi
+Setelah kita mengenal apa itu investasi dan kenapa kita harus berinvestasi,
  sekarang tentu kita ingin tahu apa jenis-jenis investasi.
  Investasi itu banyak sekali macamnya.
  Ada investasi di 
@@ -3028,36 +3433,57 @@ produk-produk keuangan di pasar modal
 \series default
 .
  Semua pasti ada kelebihan dan kekurangannya.
- 
-\end_layout
-
-\begin_layout Standard
-
-\emph on
-For example
-\emph default
- atau contohnya adalah investasi di properti.
+ Contohnya, investasi di 
+\series bold
+properti
+\series default
+.
  Kita semua tentu senang untuk mempunyai beberapa rumah ataupun bahkan banyak
  rumah.
- Kelebihannya adalah pada umumnya harga properti akan selalu naik.
- Tetapi kekurangannya adalah investasi di properti tidak likuid.
+ 
+\series bold
+Kelebihannya adalah pada umumnya harga properti akan selalu naik
+\series default
+, tetapi 
+\series bold
+kekurangannya, investasi di properti tidak likuid
+\series default
+.
  Ketika Anda misalnya membutuhkan uang secara tiba-tiba atau mendadak, agak
  sulit rasanya untuk menjual properti Anda dalam waktu yang singkat.
  Selain itu ketika Anda membutuhkan tidak sebanyak nilai rumah, misalnya
- rumah Anda bernilai lima ratus juta.
- Tetapi sebetulnya Anda hanya butuh seratus juta.
+ rumah Anda bernilai lima ratus juta, tetapi sebetulnya Anda hanya butuh
+ seratus juta.
  Tentu Anda tidak bisa menjual seperlima dari rumah Anda itu bukan? Seperti
  itu.
  
 \end_layout
 
 \begin_layout Standard
-Kemudian kalau investasi di logam mulia atau emas, apa keuntungannya? Keuntungan
-nya tentu pada umumnya harganya akan beranjak naik.
- Anda bisa memperoleh capital gain dari selisih ketika Anda menjual dan
- ketika Anda membeli.
+Kemudian kalau investasi di 
+\series bold
+logam mulia atau emas
+\series default
+, apa keuntungannya? 
+\series bold
+Keuntungannya tentu pada umumnya harganya akan beranjak naik
+\series default
+.
+ Anda bisa memperoleh 
+\emph on
+capital
+\emph default
+ 
+\emph on
+gain
+\emph default
+ dari selisih ketika Anda menjual dan ketika Anda membeli.
  Tetapi risikonya tentu ada.
- Karena untuk menyimpan tentu ada risiko ketika dicuri orang misalnya.
+ Karena untuk menyimpan tentu ada 
+\series bold
+risiko ketika dicuri orang
+\series default
+ misalnya.
  Jadi setiap jenis investasi itu pasti ada kelebihan dan ada kekurangannya.
  
 \end_layout
